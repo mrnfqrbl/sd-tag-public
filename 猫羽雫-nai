@@ -1,0 +1,137 @@
+猫羽雫  抬腿
+{
+  "prompt": " {{{nachoneko（indie virtual youtuber）}}}, artist:ciloranko, [artist:tianliang duohe fangdongye], [artist:sho_(sho_lwlw)], [artist:baku-p], [artist:tsubasa_tsubasa], {{best quality}}, amazing quality, very aesthetic, absurdres,\n\nA girl, solo, loli, bedroom, Small leg lift, White silk socks, {Pink underwear}, Leg slightly raised,",
+  "steps": 23,
+  "height": 1216,
+  "width": 832,
+  "scale": 5.0,
+  "uncond_scale": 0.0,
+  "cfg_rescale": 0.0,
+  "seed": 4478762389,
+  "n_samples": 1,
+  "hide_debug_overlay": false,
+  "noise_schedule": "karras",
+  "legacy_v3_extend": false,
+  "reference_information_extracted_multiple": [],
+  "reference_strength_multiple": [],
+  "sampler": "k_euler_ancestral",
+  "controlnet_strength": 1.0,
+  "controlnet_model": null,
+  "dynamic_thresholding": false,
+  "dynamic_thresholding_percentile": 0.999,
+  "dynamic_thresholding_mimic_scale": 10.0,
+  "sm": false,
+  "sm_dyn": false,
+  "skip_cfg_above_sigma": null,
+  "skip_cfg_below_sigma": 0.0,
+  "lora_unet_weights": null,
+  "lora_clip_weights": null,
+  "deliberate_euler_ancestral_bug": false,
+  "prefer_brownian": true,
+  "cfg_sched_eligibility": "enable_for_post_summer_samplers",
+  "explike_fine_detail": false,
+  "minimize_sigma_inf": false,
+  "uncond_per_vibe": true,
+  "wonky_vibe_correlation": true,
+  "version": 1,
+  "uc": "nsfw, lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]",
+  "request_type": "PromptGenerateRequest",
+  "signed_hash": "SmsQf5xtZIq8fCyHHX06K+7j+nv8oJKPPxuXF1rmpvKcq4GwP34RzD/r7cZD3mCW0JlFq64qBVhGWeH83dKWAQ=="
+}
+
+
+
+
+
+猫羽雫-白丝
+{
+  "prompt": " {{{nachoneko（indie virtual youtuber）}}}, artist:ciloranko, [artist:tianliang duohe fangdongye], [artist:sho_(sho_lwlw)], [artist:baku-p], [artist:tsubasa_tsubasa], {{best quality}}, amazing quality, very aesthetic, absurdres,\n\n1toddler, solo, {{petite, toddler}}, {{Pink pussy}}, bedroom, Pull down the white silk pantyhose, White silk pantyhose pull, Lift your legs, Two hands touching legs\n\n",
+  "steps": 23,
+  "height": 1216,
+  "width": 832,
+  "scale": 5.0,
+  "uncond_scale": 0.0,
+  "cfg_rescale": 0.0,
+  "seed": 1451231332,
+  "n_samples": 1,
+  "hide_debug_overlay": false,
+  "noise_schedule": "karras",
+  "legacy_v3_extend": false,
+  "reference_information_extracted_multiple": [],
+  "reference_strength_multiple": [],
+  "sampler": "k_euler_ancestral",
+  "controlnet_strength": 1.0,
+  "controlnet_model": null,
+  "dynamic_thresholding": false,
+  "dynamic_thresholding_percentile": 0.999,
+  "dynamic_thresholding_mimic_scale": 10.0,
+  "sm": false,
+  "sm_dyn": false,
+  "skip_cfg_above_sigma": null,
+  "skip_cfg_below_sigma": 0.0,
+  "lora_unet_weights": null,
+  "lora_clip_weights": null,
+  "deliberate_euler_ancestral_bug": false,
+  "prefer_brownian": true,
+  "cfg_sched_eligibility": "enable_for_post_summer_samplers",
+  "explike_fine_detail": false,
+  "minimize_sigma_inf": false,
+  "uncond_per_vibe": true,
+  "wonky_vibe_correlation": true,
+  "version": 1,
+  "uc": "Mutation, heteromorphism, strange, Low resolution, superfluous, Label missing, Label damage, Be pregnant, pregnant, Mosaic, Watermark, irregular, abnormal, Variant, Exception generation, Extra limbs, Alien",
+  "request_type": "PromptGenerateRequest",
+  "signed_hash": "nBuFIyli36/tC0+3gSGTmEK6Bpy0PaCqnRdP6T0/9qB9L2YcuEnn+1pBPsTN8Ne24jEEAwdMVGsLx1oyHIuhBw=="
+}
+
+
+
+
+
+
+
+坐着
+
+
+
+{
+prompt:" {{{ nachoneko （indie virtual youtuber）}}},artist:ciloranko, [artist:tianliang duohe fangdongye], [artist:sho_(sho_lwlw)], [artist:baku-p], [artist:tsubasa_tsubasa], {{best quality}}, amazing quality, very aesthetic, absurdres,
+
+1girl ,solo,{{petite,loli}},bedroom,smile,"
+steps:23
+height:1024
+width:1024
+scale:5
+uncond_scale:0
+cfg_rescale:0
+seed:3257310012
+n_samples:1
+hide_debug_overlay:false
+noise_schedule:"karras"
+legacy_v3_extend:false
+reference_information_extracted_multiple:[]
+reference_strength_multiple:[]
+sampler:"k_euler_ancestral"
+controlnet_strength:1
+controlnet_model:null
+dynamic_thresholding:false
+dynamic_thresholding_percentile:0.999
+dynamic_thresholding_mimic_scale:10
+sm:false
+sm_dyn:false
+skip_cfg_above_sigma:null
+skip_cfg_below_sigma:0
+lora_unet_weights:null
+lora_clip_weights:null
+deliberate_euler_ancestral_bug:false
+prefer_brownian:true
+cfg_sched_eligibility:"enable_for_post_summer_samplers"
+explike_fine_detail:false
+minimize_sigma_inf:false
+uncond_per_vibe:true
+wonky_vibe_correlation:true
+version:1
+uc:"nsfw, lowres, {bad}, error, fewer, extra, missing, worst quality, jpeg artifacts, bad quality, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, scan, [abstract]"
+request_type:"PromptGenerateRequest"
+signed_hash:"/LF4eiqsusQdPGoyMHtNde2Z4yVY18472t4sM5WitvBfUKPCIOoFg5EVmnD1yIhLyuo5klr766pZgABBSzDAAw=="
+}
