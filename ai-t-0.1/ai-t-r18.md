@@ -71,7 +71,7 @@ single girl, loli, petite, blue cat pajamas, white thighhighs, pink headband, bl
 # 娇小萝莉穿黄色小鸡睡衣，白短袜，红色发带，浴室手淫，右臂创可贴，蓝运动鞋，害羞潮红
 ## 单人,萝莉,娇小,女孩,黄色小鸡睡衣,白短袜,红色发带,蓝运动鞋,浴室,手淫,害羞,潮红,站姿,创可贴,水龙头,瓷砖,黄色,白色,红色,蓝色,可爱,萌,明亮光线,水滴,凌乱头发,微张嘴唇,红晕,汗水,best quality,amazing quality,Depth of field,high quality,high saturation,8k,4k
 ```
-single girl, loli, petite, yellow chick pajamas, white short socks, red headband, blue sneakers, bathroom, masturbation, shy, flushed, standing, bandaid, faucet, tiles, yellow, white, red, blue, cute, moe, bright light, water droplets, messy hair, parted lips, blush, sweat, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+single girl,loli,petite,yellow chick pajamas,white short socks,red headband,blue sneakers,bathroom,masturbation,shy,flushed,standing,bandaid,faucet,tiles,yellow,white,red,blue,cute,moe,bright light,water droplets,messy hair,parted lips,blush,sweat,best quality,amazing quality,Depth of field,high quality,high saturation,8k,4k,Pussy,from_below,anus,
 ```
 ---
 # 娇小萝莉穿绿色恐龙睡衣，白长筒袜，紫色发带，沙发腿交，左臂创可贴，粉运动鞋，害羞痛苦
