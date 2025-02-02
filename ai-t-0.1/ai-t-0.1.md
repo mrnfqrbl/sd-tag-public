@@ -1,0 +1,186 @@
+# 一个穿着T恤和短裙的萝莉在阳光明媚的教室里微笑
+## 单人,萝莉,娇小,棕色长发,蓝色眼睛,微笑,锁骨,白皮肤,白色T恤,蓝色短裙,白色短袜,运动鞋,教室,阳光,坐,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, brown long hair, blue eyes, smile, collarbone, white skin, white T-shirt, blue short skirt, white short socks, sneakers, classroom, sunlight, sitting, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着睡衣、戴着猫尾巴的萝莉在夜晚的卧室里侧卧
+## 单人,萝莉,娇小,金色短发,绿色眼睛,害羞,白色猫尾巴,粉色睡衣,白色短袜,卧室,夜晚,侧卧,床,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, golden short hair, green eyes, shy, white cat tail, pink pajamas, white short socks, bedroom, night, lying on side, bed, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连衣裙、戴着冰翼的萝莉在暴雨的海滩上跳跃
+## 单人,萝莉,娇小,黑色双马尾,红色眼睛,兴奋,白色冰翼,蓝色连衣裙,白色短袜,运动鞋,海滩,暴雨,跳跃,单腿抬起,侧视,海浪,乌云,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, black twin tails, red eyes, excited, white ice wings, blue dress, white short socks, sneakers, beach, heavy rain, jumping, one leg raised, side view, sea waves, dark clouds, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连裤袜的萝莉在森林里四肢着地
+## 单人,萝莉,娇小,棕色长发,蓝色眼睛,惊讶,白色连裤袜,绿色T恤,森林,白天,四肢着地,树木,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, brown long hair, blue eyes, surprised, white pantyhose, green T-shirt, forest, daytime, on all fours, trees, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着短裙的萝莉在浴室里趴着
+## 单人,萝莉,娇小,金色短发,绿色眼睛,哭泣,白色短裙,白色短袜,浴室,白天,趴,水,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, golden short hair, green eyes, crying, white short skirt, white short socks, bathroom, daytime, lying down, water, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连衣裙的萝莉在阳光明媚的公园里开心地奔跑
+## 单人,萝莉,娇小,粉色双马尾,绿色眼睛,微笑,锁骨,白皮肤,白色连衣裙,粉色蝴蝶结,白色短袜,棕色皮鞋,公园,阳光,奔跑,双腿抬起,正面视角,绿草地, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, pink twintails, green eyes, smile, collarbone, white skin, white dress, pink bow, white short socks, brown leather shoes, park, sunlight, running, both legs raised, front view, green grass, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着睡衣的萝莉在卧室里侧卧着看书
+## 单人,萝莉,娇小,蓝色短发,蓝色眼睛,害羞,锁骨,白皮肤,白色睡衣,蓝色条纹,白色短袜,赤足,卧室,夜晚,侧卧,看书,床头灯,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, blue short hair, blue eyes, shy, collarbone, white skin, white pajamas, blue stripes, white short socks, barefoot, bedroom, night, lying on side, reading book, bedside lamp, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连裤袜和连衣裙的萝莉在教室里害羞地坐着
+## 单人,萝莉,娇小,金色长发,蓝色眼睛,害羞,白色连衣裙,黑色连裤袜,棕色皮鞋,教室,木桌,侧坐,双手放在膝盖上,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, golden long hair, blue eyes, shy, white dress, black pantyhose, brown leather shoes, classroom, wooden desk, side sitting, hands on knees, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着睡衣的萝莉在卧室里惊讶地看着窗外
+## 单人,萝莉,娇小,黑色短发,棕色眼睛,惊讶,粉色睡衣,赤足,卧室,窗户,侧卧,双手撑着头,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, black short hair, brown eyes, surprised, pink pajamas, barefoot, bedroom, window, side lying, hands supporting head, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着白色连衣裙的萝莉在森林里好奇地观察蝴蝶
+## 单人,萝莉,娇小,棕色双马尾,蓝色眼睛,好奇,白色连衣裙,白色短袜,棕色皮鞋,森林,蝴蝶,站立,侧身,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, brown twin tails, blue eyes, curious, white dress, white short socks, brown leather shoes, forest, butterfly, standing, side facing, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着水手服的萝莉在街道上开心地吃着冰淇淋
+## 单人,萝莉,娇小,黑色长发,绿色眼睛,开心,蓝色水手服,白色短裙,黑色短袜,黑色鞋子,街道,冰淇淋,站立,单手拿着冰淇淋,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, black long hair, green eyes, happy, blue sailor suit, white short skirt, black short socks, black shoes, street, ice cream, standing, one hand holding ice cream, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连帽衫的萝莉在卧室里趴在床上看书
+## 单人,萝莉,娇小,金色短发,棕色眼睛,专注,灰色连帽衫,白色短裤,赤足,卧室,书,趴,双手撑着下巴,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, golden short hair, brown eyes, focused, gray hoodie, white shorts, barefoot, bedroom, book, lying down, hands supporting chin, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连衣裙和猫耳的萝莉在教室里认真听课
+## 单人,萝莉,娇小,粉色长发,蓝色眼睛,认真,白色猫耳,蓝色连衣裙,白色短袜,棕色皮鞋,教室,课桌,坐,双手放在桌子上,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, pink long hair, blue eyes, serious, white cat ears, blue dress, white short socks, brown leather shoes, classroom, desk, sitting, hands on the desk, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着运动服的萝莉在公园里开心地放风筝
+## 单人,萝莉,娇小,棕色短发,绿色眼睛,开心,红色运动服,白色短裤,运动鞋,公园,风筝,站立,单手拿着风筝线,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, brown short hair, green eyes, happy, red sportswear, white shorts, sneakers, park, kite, standing, one hand holding kite string, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着睡衣的萝莉在卧室里害羞地抱着玩偶
+## 单人,萝莉,娇小,黑色长发,棕色眼睛,害羞,粉色睡衣,赤足,卧室,玩偶,坐,双手抱着玩偶,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, black long hair, brown eyes, shy, pink pajamas, barefoot, bedroom, doll, sitting, hands holding doll, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连衣裙的萝莉在阳光明媚的公园里吹泡泡
+## 单人,萝莉,娇小,棕色双马尾,绿色眼睛,微笑,黄色连衣裙,白色短袜,运动鞋,公园,阳光,吹泡泡,单手拿着泡泡棒,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, brown twin tails, green eyes, smile, yellow dress, white short socks, sneakers, park, sunlight, blowing bubbles, one hand holding bubble wand, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着水手服的萝莉在图书馆里认真地阅读书籍
+## 单人,萝莉,娇小,黑色短发,蓝色眼睛,认真,蓝色水手服,白色短裙,黑色短袜,黑色皮鞋,图书馆,书架,坐,双手捧着书,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, black short hair, blue eyes, serious, blue sailor suit, white short skirt, black short socks, black leather shoes, library, bookshelf, sitting, hands holding book, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连帽衫的萝莉在雨后的街道上跳水坑
+## 单人,萝莉,娇小,金色长发,棕色眼睛,兴奋,灰色连帽衫,蓝色短裤,运动鞋,街道,雨后,跳跃,双腿抬起,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, golden long hair, brown eyes, excited, gray hoodie, blue shorts, sneakers, street, after rain, jumping, both legs raised, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着睡衣的萝莉在卧室里画画
+## 单人,萝莉,娇小,粉色双马尾,绿色眼睛,专注,粉色睡衣,赤足,卧室,画板,坐,单手拿着画笔,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, pink twin tails, green eyes, focused, pink pajamas, barefoot, bedroom, drawing board, sitting, one hand holding paintbrush, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着短裙和白丝袜的萝莉在海滩上捡贝壳
+## 单人,萝莉,娇小,银色短发,蓝色眼睛,好奇,白色T恤,蓝色短裙,白色丝袜,运动鞋,海滩,贝壳,蹲,双手捡贝壳,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, silver short hair, blue eyes, curious, white T-shirt, blue short skirt, white stockings, sneakers, beach, seashells, squatting, hands picking up seashells, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连衣裙和猫耳的萝莉在森林里捉迷藏
+## 单人,萝莉,娇小,黑色长发,棕色眼睛,微笑,白色猫耳,绿色连衣裙,白色短袜,棕色皮鞋,森林,树木,躲藏,双手捂着眼睛,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, black long hair, brown eyes, smile, white cat ears, green dress, white short socks, brown leather shoes, forest, trees, hiding, hands covering eyes, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着运动服的萝莉在教室里练习体操
+## 单人,萝莉,娇小,金色双马尾,蓝色眼睛,专注,红色运动服,白色短裤,赤足,教室,体操垫,站立,单腿抬起,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, golden twin tails, blue eyes, focused, red sportswear, white shorts, barefoot, classroom, gymnastics mat, standing, one leg raised, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连裤袜和短裙的萝莉在浴室里洗澡
+## 单人,萝莉,娇小,棕色短发,绿色眼睛,开心,白色T恤,蓝色短裙,黑色连裤袜,赤足,浴室,浴缸,坐,双手玩水,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, brown short hair, green eyes, happy, white T-shirt, blue short skirt, black pantyhose, barefoot, bathroom, bathtub, sitting, hands playing with water, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着T恤和短裤的萝莉在海边沙滩上建造沙堡
+## 单人,萝莉,娇小,金色短发,绿色眼睛,专注,白色T恤,蓝色短裤,赤足,海滩,沙堡,蹲,双手堆沙子,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, golden short hair, green eyes, focused, white T-shirt, blue shorts, barefoot, beach, sandcastle, squatting, hands building sand, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连衣裙和发饰的萝莉在公园里喂鸽子
+## 单人,萝莉,娇小,棕色双马尾,蓝色眼睛,开心,粉色连衣裙,花朵发饰,白色短袜,棕色皮鞋,公园,鸽子,站立,单手撒食物,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, brown twin tails, blue eyes, happy, pink dress, flower hair accessory, white short socks, brown leather shoes, park, pigeons, standing, one hand scattering food, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着睡衣和猫尾巴的萝莉在卧室里玩玩具
+## 单人,萝莉,娇小,黑色长发,棕色眼睛,微笑,蓝色睡衣,黑色猫尾巴,赤足,卧室,玩具,坐,双手拿着玩具,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, black long hair, brown eyes, smile, blue pajamas, black cat tail, barefoot, bedroom, toy, sitting, hands holding toy, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连衣裙的萝莉在阳光明媚的公园里微笑
+## 单人,萝莉,娇小,粉色双马尾,蓝色眼睛,微笑,白色连衣裙,白色短袜,棕色皮鞋,公园,阳光,站立,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, pink twintails, blue eyes, smile, white dress, white short socks, brown leather shoes, park, sunlight, standing, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着睡衣的萝莉在卧室里侧卧
+## 单人,萝莉,娇小,金色短发,绿色眼睛,害羞,一般睡衣,白色短袜,卧室,夜晚,侧卧,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, golden short hair, green eyes, shy, general pajamas, white short socks, bedroom, night, side lying, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着T恤和短裙的萝莉在教室里坐着
+## 单人,萝莉,娇小,棕色长发,黑色眼睛,惊讶,白色T恤,蓝色短裙,黑色短袜,黑色运动鞋,教室,白天,坐,正面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, brown long hair, black eyes, surprised, white T-shirt, blue short skirt, black short socks, black sneakers, classroom, daytime, sitting, front view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着白丝袜的萝莉在海滩上奔跑
+## 单人,萝莉,娇小,黑色短发,蓝色眼睛,兴奋,白色T恤,蓝色短裤,白丝袜,运动鞋,海滩,白天,奔跑,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, black short hair, blue eyes, excited, white T-shirt, blue shorts, white silk stockings, sneakers, beach, daytime, running, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
+# 一个穿着连衣裙的萝莉在森林里四肢着地
+## 单人,萝莉,娇小,金色长发,绿色眼睛,哭泣,白色连衣裙,赤足,森林,白天,四肢着地,侧面视角, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+single girl, loli, petite, golden long hair, green eyes, crying, white dress, barefoot, forest, daytime, on all fours, side view, best quality, amazing quality, Depth of field, high quality, high saturation, 8k, 4k
+```
+---
