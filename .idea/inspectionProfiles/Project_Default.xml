@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="22">
+            <item index="0" class="java.lang.String" itemvalue="blinker" />
+            <item index="1" class="java.lang.String" itemvalue="greenlet" />
+            <item index="2" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="3" class="java.lang.String" itemvalue="cffi" />
+            <item index="4" class="java.lang.String" itemvalue="cryptography" />
+            <item index="5" class="java.lang.String" itemvalue="zope.interface" />
+            <item index="6" class="java.lang.String" itemvalue="setuptools" />
+            <item index="7" class="java.lang.String" itemvalue="MarkupSafe" />
+            <item index="8" class="java.lang.String" itemvalue="pycparser" />
+            <item index="9" class="java.lang.String" itemvalue="click" />
+            <item index="10" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="11" class="java.lang.String" itemvalue="bcrypt" />
+            <item index="12" class="java.lang.String" itemvalue="paramiko" />
+            <item index="13" class="java.lang.String" itemvalue="PyNaCl" />
+            <item index="14" class="java.lang.String" itemvalue="jsonify" />
+            <item index="15" class="java.lang.String" itemvalue="colorama" />
+            <item index="16" class="java.lang.String" itemvalue="websocket" />
+            <item index="17" class="java.lang.String" itemvalue="gevent" />
+            <item index="18" class="java.lang.String" itemvalue="itsdangerous" />
+            <item index="19" class="java.lang.String" itemvalue="zope.event" />
+            <item index="20" class="java.lang.String" itemvalue="websockets" />
+            <item index="21" class="java.lang.String" itemvalue="Flask" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
