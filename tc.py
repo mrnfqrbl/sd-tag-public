@@ -51,6 +51,27 @@ def 加载文件(文件路径: str, 类型: str="") -> iter:
         yield None
 
 
+def 加载文件(文件路径: str, 文件类型: str = "sd"):
+    """
+    加载 JSON 文件，并根据文件类型返回生成器。
+
+    Args:
+        文件路径 (str): 要加载的 JSON 文件路径。
+        文件类型 (str): 指定文件类型，默认为 "sd"。
+
+    Yields:
+        dict: JSON 文件中的每个字典。
+    """
+    with open(文件路径, "r", encoding="utf-8") as f:
+        data = json.load(f)
+        if isinstance(data, list):
+            for item in data:
+                yield item
+        elif isinstance(data, dict):
+            yield data
+        else:
+            yield None
+
 def 处理目录(目录路径: str, 文件类型: str = "sd"):
     """
     处理指定目录下的所有 JSON 文件，并将结果保存到与输入目录相同的目录。
@@ -82,17 +103,20 @@ def 处理目录(目录路径: str, 文件类型: str = "sd"):
 
                 markdown输出 = ""
                 json读取器 = 加载文件(文件路径, 文件类型)
+                序号 = 1
 
                 while True:
-                    下一个字典 = next(json读取器)
+                    下一个字典 = next(json读取器, None) # 使用 next(iterator, None) 防止 StopIteration 异常
                     if 下一个字典 is None:
                         print(f"JSON 文件 {文件路径} 读取完毕。")
                         break
                     else:
-                        markdown输出 += f"# {下一个字典['主题']}\n"
-                        markdown输出 += f"## {下一个字典['中文说明']}\n"
+                        markdown输出 += f"# 序号：{序号}\n"
+                        markdown输出 += f"## {下一个字典['主题']}\n"
+                        markdown输出 += f"### {下一个字典['中文说明']}\n"
                         markdown输出 += f"```\n{下一个字典['英语提示词']}\n```\n"
                         markdown输出 += "---\n"  # 分隔符
+                        序号 += 1
 
                 with open(输出文件路径, "w", encoding="utf-8") as md文件:
                     md文件.write(markdown输出)
@@ -102,7 +126,7 @@ def 处理目录(目录路径: str, 文件类型: str = "sd"):
         else:
             print(f"跳过目录: {文件路径}")
 
-
 if __name__ == "__main__":
-    输入目录 = "2025-2-3"  # 替换为你的 JSON 文件所在目录，为空则使用当前目录
+    # 输入目录 = "2025-2-3"  # 替换为你的 JSON 文件所在目录，为空则使用当前目录
+    输入目录=""
     处理目录(输入目录, "sd")
