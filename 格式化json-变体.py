@@ -32,7 +32,7 @@ def JSON转MD(JSON文件路径, MD文件路径):
             if 键 == '英语提示词':
                 markdown += f"**{键}:**\n\n"
                 markdown += f"```text\n{值}\n```\n\n"
-            elif 键 not in ['id', 'parent_id', 'type']:
+            elif 键 not in ['id', '父_id', 'type']:
                 markdown += f"**{键}:** {值}\n\n"
 
         return markdown
@@ -79,10 +79,10 @@ def JSON转MD(JSON文件路径, MD文件路径):
 
             已访问节点.add(节点['id'])  # 标记当前节点为已访问
 
-            for 子节点 in [n for n in 数据 if n.get('parent_id') == 节点ID]:
+            for 子节点 in [n for n in 数据 if n.get('父_id') == 节点ID]:
                 添加目录条目(子节点, 层级 + 1, 已访问节点)
 
-        for 根节点 in [n for n in 数据 if n.get('parent_id') is None]:
+        for 根节点 in [n for n in 数据 if n.get('父_id') is None]:
             添加目录条目(根节点)
 
         return 目录
@@ -110,11 +110,11 @@ def JSON转MD(JSON文件路径, MD文件路径):
 
         已访问节点.add(节点['id'])  # 标记当前节点为已访问
 
-        for 子节点 in [n for n in 数据 if n.get('parent_id') == 节点['id']]:
+        for 子节点 in [n for n in 数据 if n.get('父_id') == 节点['id']]:
             内容 += 生成Markdown(子节点)
             添加子节点内容(子节点, 层级 + 1, 已访问节点)
 
-    for 根节点 in [n for n in 数据 if n.get('parent_id') is None]:
+    for 根节点 in [n for n in 数据 if n.get('父_id') is None]:
         内容 += 生成Markdown(根节点)
         添加子节点内容(根节点)
 

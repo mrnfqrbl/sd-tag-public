@@ -1,0 +1,138 @@
+[
+  {
+    "id": "根",
+    "父_id": null,
+    "类型": "角色",
+    "主题": "小竹",
+    "中文说明": "角色的基础设定，不可变部分。确保所有变体都包含核心特征集。",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, almond eyes, upturned eyes, bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), green hanfu, white lining, bamboo leaf embroidery, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused"
+  },
+  {
+    "id": "外貌_马尾",
+    "父_id": "根",
+    "类型": "细节",
+    "主题": "发型：马尾",
+    "中文说明": "将小竹的发型改为马尾辫，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, black ponytail, almond eyes, upturned eyes, no bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), green hanfu, white lining, bamboo leaf embroidery, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused"
+  },
+  {
+    "id": "外貌_棕发",
+    "父_id": "根",
+    "类型": "细节",
+    "主题": "发色：棕色",
+    "中文说明": "将小竹的发色改为棕色，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, brown long hair, almond eyes, upturned eyes, bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), green hanfu, white lining, bamboo leaf embroidery, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused"
+  },
+  {
+    "id": "服装_红汉服",
+    "父_id": "外貌_马尾",
+    "类型": "风格",
+    "主题": "服装：红色汉服",
+    "中文说明": "将小竹的服装改为红色汉服，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, black ponytail, almond eyes, upturned eyes, no bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), red hanfu, white lining, bamboo leaf embroidery, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused"
+  },
+  {
+    "id": "服装_现代装",
+    "父_id": "外貌_棕发",
+    "类型": "风格",
+    "主题": "服装：现代装",
+    "中文说明": "将小竹的服装改为融入竹元素的现代装，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, brown long hair, almond eyes, upturned eyes, bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), bamboo-themed dress, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused"
+  },
+  {
+    "id": "场景_竹林",
+    "父_id": "服装_红汉服",
+    "类型": "地点",
+    "主题": "场景：竹林",
+    "中文说明": "将小竹置于竹林场景中，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, black ponytail, almond eyes, upturned eyes, no bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), red hanfu, white lining, bamboo leaf embroidery, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused, bamboo forest, sunlight, bamboo leaves"
+  },
+  {
+    "id": "场景_城镇",
+    "父_id": "服装_现代装",
+    "类型": "地点",
+    "主题": "场景：城镇",
+    "中文说明": "将小竹置于城镇场景中，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, brown long hair, almond eyes, upturned eyes, bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), bamboo-themed dress, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused, bustling town, street"
+  },
+  {
+    "id": "时间_清晨",
+    "父_id": "场景_竹林",
+    "类型": "时刻",
+    "主题": "时间：清晨",
+    "中文说明": "将时间设置为清晨，竹林中充满阳光，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, black ponytail, almond eyes, upturned eyes, no bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), red hanfu, white lining, bamboo leaf embroidery, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused, bamboo forest, early morning, sunlight, bamboo leaves"
+  },
+  {
+    "id": "时间_夜晚",
+    "父_id": "场景_城镇",
+    "类型": "时刻",
+    "主题": "时间：夜晚",
+    "中文说明": "将时间设置为夜晚，城镇灯火通明，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, brown long hair, almond eyes, upturned eyes, bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), bamboo-themed dress, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused, bustling town, night, street lights"
+  },
+  {
+    "id": "天气_下雨",
+    "父_id": "时间_清晨",
+    "类型": "气候",
+    "主题": "天气：下雨",
+    "中文说明": "设置为下雨天气，竹林中充满雾气，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, black ponytail, almond eyes, upturned eyes, no bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), red hanfu, white lining, bamboo leaf embroidery, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused, bamboo forest, early morning, rainy, mist, bamboo leaves"
+  },
+  {
+    "id": "天气_晴朗",
+    "父_id": "时间_夜晚",
+    "类型": "气候",
+    "主题": "天气：晴朗",
+    "中文说明": "设置为晴朗天气，夜晚星光闪烁，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, brown long hair, almond eyes, upturned eyes, bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), bamboo-themed dress, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused, bustling town, night, clear sky, stars"
+  },
+  {
+    "id": "自然现象_萤火虫",
+    "父_id": "天气_下雨",
+    "类型": "元素",
+    "主题": "自然现象：萤火虫",
+    "中文说明": "添加萤火虫元素，增强竹林雨夜的梦幻感，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, black ponytail, almond eyes, upturned eyes, no bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), red hanfu, white lining, bamboo leaf embroidery, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused, bamboo forest, early morning, rainy, mist, bamboo leaves, fireflies"
+  },
+  {
+    "id": "自然现象_霓虹灯",
+    "父_id": "天气_晴朗",
+    "类型": "元素",
+    "主题": "自然现象：霓虹灯",
+    "中文说明": "添加霓虹灯元素，增强城镇夜晚的现代感，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, brown long hair, almond eyes, upturned eyes, bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), bamboo-themed dress, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused, bustling town, night, clear sky, stars, neon lights"
+  },
+  {
+    "id": "动作_练剑",
+    "父_id": "自然现象_萤火虫",
+    "类型": "行为",
+    "主题": "动作：练剑",
+    "中文说明": "小竹在竹林雨夜中练剑，萤火虫环绕，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, black ponytail, almond eyes, upturned eyes, no bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), red hanfu, white lining, bamboo leaf embroidery, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused, bamboo forest, early morning, rainy, mist, bamboo leaves, fireflies, practicing swordsmanship, wooden sword"
+  },
+  {
+    "id": "动作_逛街",
+    "父_id": "自然现象_霓虹灯",
+    "类型": "行为",
+    "主题": "动作：逛街",
+    "中文说明": "小竹在城镇夜晚的霓虹灯下逛街，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, brown long hair, almond eyes, upturned eyes, bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), bamboo-themed dress, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused, bustling town, night, clear sky, stars, neon lights, walking, shopping bags"
+  },
+  {
+    "id": "表情_严肃",
+    "父_id": "动作_练剑",
+    "类型": "情感",
+    "主题": "表情：严肃",
+    "中文说明": "小竹在竹林雨夜中严肃地练剑，萤火虫环绕，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, black ponytail, almond eyes, upturned eyes, no bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), red hanfu, white lining, bamboo leaf embroidery, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused, bamboo forest, early morning, rainy, mist, bamboo leaves, fireflies, practicing swordsmanship, wooden sword, serious expression"
+  },
+  {
+    "id": "表情_好奇",
+    "父_id": "动作_逛街",
+    "类型": "情感",
+    "主题": "表情：好奇",
+    "中文说明": "小竹在城镇夜晚的霓虹灯下好奇地逛街，保持其他核心特征不变。",
+    "英语提示词": "1girl, solo, loli, petite, brown long hair, almond eyes, upturned eyes, bangs, braided hair (right sideburn), violet eyes, mole under left eye, bamboo sword brooch, white highlight (left sideburn), bamboo-themed dress, dark brown leather belt, wooden amulet (bamboo leaf pattern), bamboo bracelet (left wrist), sneakers, white, delicate face, small hands, serious, focused, bustling town, night, clear sky, stars, neon lights, walking, shopping bags, curious expression"
+  }
+]

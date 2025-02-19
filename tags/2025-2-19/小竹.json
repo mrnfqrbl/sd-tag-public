@@ -1,0 +1,347 @@
+[
+  {
+    "id": "根节点",
+    "父_id": null,
+    "类型": "root",
+    "主题": "基础",
+    "中文说明": "基础提示词，作为所有变体的起点",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "外貌_1_发色",
+    "父_id": "根节点",
+    "类型": "外貌",
+    "主题": "发色",
+    "中文说明": "将黑色头发变为深棕色",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "外貌_2_瞳色",
+    "父_id": "根节点",
+    "类型": "外貌",
+    "主题": "瞳色",
+    "中文说明": "将黑色头发变为紫罗兰色",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "外貌_3_猫耳朵",
+    "父_id": "外貌_1_发色",
+    "类型": "外貌",
+    "主题": "猫耳朵",
+    "中文说明": "在深棕色头发的基础上，添加一对白色的猫耳朵",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, white cat ears, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "服装_1_颜色",
+    "父_id": "外貌_3_猫耳朵",
+    "类型": "服装",
+    "主题": "服装颜色",
+    "中文说明": "在深棕色头发和猫耳朵的基础上，将汉服的颜色改为蓝色",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, bangs, hanfu, blue, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, blue, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, white cat ears, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "服装_2_风格",
+    "父_id": "外貌_2_瞳色",
+    "类型": "服装",
+    "主题": "服装风格",
+    "中文说明": "在紫罗兰色瞳孔的基础上，将汉服改为现代连衣裙",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, dress, green, white, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, dress, green, white, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "场景_1_变化",
+    "父_id": "服装_1_颜色",
+    "类型": "场景",
+    "主题": "场景变化",
+    "中文说明": "在深棕色头发、猫耳朵和蓝色汉服的基础上，将竹林变为樱花林",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, bangs, hanfu, blue, white lining, bamboo leaf embroidery, sneakers, white, cherry blossom forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, blue, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, cherry blossom forest, sunlight, cherry blossom leaves, sword energy, breathing, skin texture, hair luster, white cat ears, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "场景_2_细节",
+    "父_id": "服装_2_风格",
+    "类型": "场景",
+    "主题": "场景细节",
+    "中文说明": "在紫罗兰色瞳孔和现代连衣裙的基础上，增加竹林中的雾气",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, dress, green, white, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, dress, green, white, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, mist, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "时间_1_变化",
+    "父_id": "场景_1_变化",
+    "类型": "时间",
+    "主题": "时间变化",
+    "中文说明": "在深棕色头发、猫耳朵、蓝色汉服和樱花林的基础上，将白天变为夜晚",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, bangs, hanfu, blue, white lining, bamboo leaf embroidery, sneakers, white, cherry blossom forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, blue, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, cherry blossom forest, moonlight, cherry blossom leaves, sword energy, breathing, skin texture, hair luster, white cat ears, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "时间_2_光照",
+    "父_id": "场景_2_细节",
+    "类型": "时间",
+    "主题": "光照",
+    "中文说明": "在紫罗兰色瞳孔、现代连衣裙和竹林雾气的基础上，增加阳光穿透",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, dress, green, white, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, dress, green, white, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, mist, sunlight rays, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "天气_1_变化",
+    "父_id": "时间_1_变化",
+    "类型": "天气",
+    "主题": "天气变化",
+    "中文说明": "在深棕色头发、猫耳朵、蓝色汉服、樱花林和夜晚的基础上，增加雨",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, bangs, hanfu, blue, white lining, bamboo leaf embroidery, sneakers, white, cherry blossom forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, blue, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, cherry blossom forest, moonlight, rain, cherry blossom leaves, sword energy, breathing, skin texture, hair luster, white cat ears, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "天气_2_风",
+    "父_id": "时间_2_光照",
+    "类型": "天气",
+    "主题": "风",
+    "中文说明": "在紫罗兰色瞳孔、现代连衣裙、竹林雾气和阳光穿透的基础上，增加微风吹拂",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, dress, green, white, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, dress, green, white, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, mist, sunlight rays, gentle breeze, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "动作_1_变化",
+    "父_id": "天气_1_变化",
+    "类型": "动作",
+    "主题": "动作变化",
+    "中文说明": "在深棕色头发、猫耳朵、蓝色汉服、樱花林、夜晚和雨的基础上，将站立变为跳跃",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, bangs, hanfu, blue, white lining, bamboo leaf embroidery, sneakers, white, cherry blossom forest, practicing swordsmanship, jumping, front view, serious, focused, holding wooden sword, body upright, hanfu, blue, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, cherry blossom forest, moonlight, rain, cherry blossom leaves, sword energy, breathing, skin texture, hair luster, white cat ears, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "动作_2_冥想",
+    "父_id": "天气_2_风",
+    "类型": "动作",
+    "主题": "冥想",
+    "中文说明": "在紫罗兰色瞳孔、现代连衣裙、竹林雾气、阳光穿透和微风吹拂的基础上，改为冥想姿势",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, dress, green, white, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, meditating, front view, serious, focused, holding wooden sword, body upright, dress, green, white, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, mist, sunlight rays, gentle breeze, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "表情_1_变化",
+    "父_id": "动作_1_变化",
+    "类型": "表情",
+    "主题": "表情变化",
+    "中文说明": "在深棕色头发、猫耳朵、蓝色汉服、樱花林、夜晚、雨和跳跃的基础上，将严肃变为微笑",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, bangs, hanfu, blue, white lining, bamboo leaf embroidery, sneakers, white, cherry blossom forest, practicing swordsmanship, jumping, front view, smiling, focused, holding wooden sword, body upright, hanfu, blue, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, cherry blossom forest, moonlight, rain, cherry blossom leaves, sword energy, breathing, skin texture, hair luster, white cat ears, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "表情_2_平静",
+    "父_id": "动作_2_冥想",
+    "类型": "表情",
+    "主题": "平静",
+    "中文说明": "在紫罗兰色瞳孔、现代连衣裙、竹林雾气、阳光穿透、微风吹拂和冥想姿势的基础上，改为平静的表情",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, dress, green, white, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, meditating, front view, serene, focused, holding wooden sword, body upright, dress, green, white, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, mist, sunlight rays, gentle breeze, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "外貌_4_发型",
+    "父_id": "外貌_1_发色",
+    "类型": "外貌",
+    "主题": "发型",
+    "中文说明": "在深棕色头发的基础上，将齐刘海改为斜刘海",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, side bangs, hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "服装_3_材质",
+    "父_id": "外貌_4_发型",
+    "类型": "服装",
+    "主题": "服装材质",
+    "中文说明": "在深棕色斜刘海的基础上，将汉服的材质改为丝绸",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, side bangs, silk hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, silk hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "场景_3_季节",
+    "父_id": "服装_3_材质",
+    "类型": "场景",
+    "主题": "季节",
+    "中文说明": "在深棕色斜刘海和丝绸汉服的基础上，将场景改为秋天的竹林",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, side bangs, silk hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, autumn bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, silk hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, autumn bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "时间_3_黄昏",
+    "父_id": "场景_3_季节",
+    "类型": "时间",
+    "主题": "黄昏",
+    "中文说明": "在深棕色斜刘海、丝绸汉服和秋天竹林的基础上，将时间改为黄昏",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, side bangs, silk hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, autumn bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, silk hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, autumn bamboo forest, sunset, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "天气_3_落叶",
+    "父_id": "时间_3_黄昏",
+    "类型": "天气",
+    "主题": "落叶",
+    "中文说明": "在深棕色斜刘海、丝绸汉服、秋天竹林和黄昏的基础上，增加落叶",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, side bangs, silk hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, autumn bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, silk hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, autumn bamboo forest, sunset, falling leaves, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "动作_3_挥剑",
+    "父_id": "天气_3_落叶",
+    "类型": "动作",
+    "主题": "挥剑",
+    "中文说明": "在深棕色斜刘海、丝绸汉服、秋天竹林、黄昏和落叶的基础上，改为挥剑的动作",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, side bangs, silk hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, autumn bamboo forest, practicing swordsmanship, swinging sword, front view, serious, focused, holding wooden sword, body upright, silk hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, autumn bamboo forest, sunset, falling leaves, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "表情_3_自信",
+    "父_id": "动作_3_挥剑",
+    "类型": "表情",
+    "主题": "自信",
+    "中文说明": "在深棕色斜刘海、丝绸汉服、秋天竹林、黄昏、落叶和挥剑动作的基础上，改为自信的表情",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, side bangs, silk hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, autumn bamboo forest, practicing swordsmanship, swinging sword, front view, confident, focused, holding wooden sword, body upright, silk hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, autumn bamboo forest, sunset, falling leaves, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "外貌_5_发饰",
+    "父_id": "外貌_2_瞳色",
+    "类型": "外貌",
+    "主题": "发饰",
+    "中文说明": "在紫罗兰色瞳孔的基础上，添加一个竹叶发簪",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, bamboo hairpin, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "服装_4_细节",
+    "父_id": "外貌_5_发饰",
+    "类型": "服装",
+    "主题": "服装细节",
+    "中文说明": "在紫罗兰色瞳孔和竹叶发簪的基础上，在汉服领口增加竹子刺绣",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, bamboo embroidery on collar, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, bamboo hairpin, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "场景_4_近景",
+    "父_id": "服装_4_细节",
+    "类型": "场景",
+    "主题": "近景",
+    "中文说明": "在紫罗兰色瞳孔、竹叶发簪和竹子刺绣汉服的基础上，改为角色近景",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, bamboo embroidery on collar, sneakers, white, practicing swordsmanship, close-up, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, skin texture, hair luster, bamboo hairpin, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "时间_4_清晨",
+    "父_id": "场景_4_近景",
+    "类型": "时间",
+    "主题": "清晨",
+    "中文说明": "在紫罗兰色瞳孔、竹叶发簪、竹子刺绣汉服和角色近景的基础上，改为清晨的阳光",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, bamboo embroidery on collar, sneakers, white, practicing swordsmanship, close-up, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, morning sunlight, skin texture, hair luster, bamboo hairpin, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "天气_4_露珠",
+    "父_id": "时间_4_清晨",
+    "类型": "天气",
+    "主题": "露珠",
+    "中文说明": "在紫罗兰色瞳孔、竹叶发簪、竹子刺绣汉服、角色近景和清晨阳光的基础上，增加竹叶上的露珠",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, bamboo embroidery on collar, sneakers, white, practicing swordsmanship, close-up, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, morning sunlight, dew on bamboo leaves, skin texture, hair luster, bamboo hairpin, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "动作_4_擦剑",
+    "父_id": "天气_4_露珠",
+    "类型": "动作",
+    "主题": "擦剑",
+    "中文说明": "在紫罗兰色瞳孔、竹叶发簪、竹子刺绣汉服、角色近景、清晨阳光和竹叶露珠的基础上，改为擦拭木剑的动作",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, bamboo embroidery on collar, sneakers, white, practicing swordsmanship, close-up, front view, serious, focused, wiping wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, morning sunlight, dew on bamboo leaves, skin texture, hair luster, bamboo hairpin, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "表情_4_温柔",
+    "父_id": "动作_4_擦剑",
+    "类型": "表情",
+    "主题": "温柔",
+    "中文说明": "在紫罗兰色瞳孔、竹叶发簪、竹子刺绣汉服、角色近景、清晨阳光、竹叶露珠和擦拭木剑的动作的基础上，改为温柔的表情",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, violet eyes, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, bamboo embroidery on collar, sneakers, white, practicing swordsmanship, close-up, front view, gentle, focused, wiping wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, morning sunlight, dew on bamboo leaves, skin texture, hair luster, bamboo hairpin, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "外貌_6_配饰",
+    "父_id": "外貌_3_猫耳朵",
+    "类型": "外貌",
+    "主题": "配饰",
+    "中文说明": "在深棕色头发和猫耳朵的基础上，增加一个竹制口笛",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, white cat ears, bamboo flute, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "动作_5_吹笛",
+    "父_id": "外貌_6_配饰",
+    "类型": "动作",
+    "主题": "吹笛",
+    "中文说明": "在深棕色头发、猫耳朵和竹制口笛的基础上，改为吹奏竹笛的动作",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, playing bamboo flute, standing, front view, serious, focused, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, white cat ears, bamboo flute, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "表情_5_陶醉",
+    "父_id": "动作_5_吹笛",
+    "类型": "表情",
+    "主题": "陶醉",
+    "中文说明": "在深棕色头发、猫耳朵、竹制口笛和吹奏竹笛的动作的基础上，改为陶醉的表情",
+    "英语提示词": "1girl, solo, loli, petite, dark brown long hair, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, playing bamboo flute, standing, front view, blissful, focused, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, white cat ears, bamboo flute, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "外貌_8_年龄",
+    "父_id": "根节点",
+    "类型": "外貌",
+    "主题": "年龄",
+    "中文说明": "将角色年龄设定为少女（teenager）",
+    "英语提示词": "1girl, solo, teenager, black long hair, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "服装_5_现代改良",
+    "父_id": "外貌_8_年龄",
+    "类型": "服装",
+    "主题": "现代改良",
+    "中文说明": "在少女年龄的基础上，将汉服改为现代改良的旗袍",
+    "英语提示词": "1girl, solo, teenager, black long hair, almond eyes, bangs, qipao, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, qipao, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "场景_6_雪地",
+    "父_id": "服装_5_现代改良",
+    "类型": "场景",
+    "主题": "雪地",
+    "中文说明": "在少女年龄和现代旗袍的基础上，将场景改为雪地竹林",
+    "英语提示词": "1girl, solo, teenager, black long hair, almond eyes, bangs, qipao, green, white lining, bamboo leaf embroidery, sneakers, white, snowy bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, qipao, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, snowy bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "外貌_9_发色挑染",
+    "父_id": "根节点",
+    "类型": "外貌",
+    "主题": "发色挑染",
+    "中文说明": "在黑色头发的基础上，增加绿色挑染",
+    "英语提示词": "1girl, solo, loli, petite, black long hair with green highlights, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "服装_6_不对称设计",
+    "父_id": "外貌_9_发色挑染",
+    "类型": "服装",
+    "主题": "不对称设计",
+    "中文说明": "在绿色挑染头发的基础上，将汉服改为不对称设计",
+    "英语提示词": "1girl, solo, loli, petite, black long hair with green highlights, almond eyes, bangs, asymmetrical hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, asymmetrical hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "外貌_10_兽耳",
+    "父_id": "根节点",
+    "类型": "外貌",
+    "主题": "兽耳",
+    "中文说明": "添加一对狐狸耳朵",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, almond eyes, bangs, hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, fox ears, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "服装_7_破损",
+    "父_id": "外貌_10_兽耳",
+    "类型": "服装",
+    "主题": "破损",
+    "中文说明": "在狐狸耳朵的基础上，将汉服改为破损的风格",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, almond eyes, bangs, torn hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, bamboo forest, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, torn hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, bamboo forest, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, fox ears, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "场景_7_山洞",
+    "父_id": "服装_7_破损",
+    "类型": "场景",
+    "主题": "山洞",
+    "中文说明": "在狐狸耳朵和破损汉服的基础上，将场景改为山洞",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, almond eyes, bangs, torn hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, cave, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, torn hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, cave, sunlight, bamboo leaves, sword energy, breathing, skin texture, hair luster, fox ears, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "时间_5_雨夜",
+    "父_id": "场景_7_山洞",
+    "类型": "时间",
+    "主题": "雨夜",
+    "中文说明": "在狐狸耳朵、破损汉服和山洞的基础上，将时间改为雨夜",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, almond eyes, bangs, torn hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, cave, practicing swordsmanship, standing, front view, serious, focused, holding wooden sword, body upright, torn hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, cave, rain, sword energy, breathing, skin texture, hair luster, fox ears, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  },
+  {
+    "id": "表情_6_警惕",
+    "父_id": "时间_5_雨夜",
+    "类型": "表情",
+    "主题": "警惕",
+    "中文说明": "在狐狸耳朵、破损汉服、山洞和雨夜的基础上，改为警惕的表情",
+    "英语提示词": "1girl, solo, loli, petite, black long hair, almond eyes, bangs, torn hanfu, green, white lining, bamboo leaf embroidery, sneakers, white, cave, practicing swordsmanship, standing, front view, wary, focused, holding wooden sword, body upright, torn hanfu, green, white lining, bamboo leaf embroidery, wide sleeves, sleeves fluttering, sneakers, white, delicate face, small hands, cave, rain, sword energy, breathing, skin texture, hair luster, fox ears, best quality, amazing quality, depth of field, high quality, high saturation, 8k, 4k, realism, rich details, cinematic"
+  }
+]
+
