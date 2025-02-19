@@ -1,5 +1,6 @@
 import json
 import os
+import re
 
 def JSON转MD(JSON文件路径, MD文件路径):
     """
@@ -13,6 +14,22 @@ def JSON转MD(JSON文件路径, MD文件路径):
     with open(JSON文件路径, 'r', encoding='utf-8') as f:
         数据 = json.load(f)
 
+    def 生成锚点名称(标题):
+        """
+        根据标题生成符合 Markdown 规范的锚点名称。
+
+        参数:
+            标题 (str): 标题文本。
+
+        返回值:
+            str: 锚点名称。
+        """
+        标题 = 标题.lower()  # 转换为小写
+        标题 = re.sub(r"[^a-z0-9\u4e00-\u9fa5]+", "-", 标题)  # 替换非字母数字和中文的字符为连字符
+        标题 = re.sub(r"-+", "-", 标题)  # 将多个连续的连字符替换为单个连字符
+        标题 = 标题.strip("-")  # 删除首尾的连字符
+        return 标题
+
     def 生成Markdown(节点):
         """
         生成 Markdown 内容，不再处理缩进。
@@ -24,15 +41,14 @@ def JSON转MD(JSON文件路径, MD文件路径):
             str: 当前节点的 Markdown 内容。
         """
 
-        节点ID = 节点['id']
-        节点标题 = 节点['描述'] if '描述' in 节点 else 节点['主题']
-        markdown = f"### [{节点标题}](#{节点ID})\n\n"  # 标题和锚点
+        节点标题 = 节点['id']  # 使用 "主题" 字段作为标题
+        markdown = f"### {节点标题}\n\n"  # 标题
 
         for 键, 值 in 节点.items():
             if 键 == '英语提示词':
                 markdown += f"**{键}:**\n\n"
                 markdown += f"```text\n{值}\n```\n\n"
-            elif 键 not in ['id', '父_id', 'type']:
+            elif 键 not in ['id', '父_id', 'type', '主题']:  # 排除 "主题" 字段
                 markdown += f"**{键}:** {值}\n\n"
 
         return markdown
@@ -43,7 +59,7 @@ def JSON转MD(JSON文件路径, MD文件路径):
 
         参数:
             数据 (list): JSON 数据。
-            最大递归深度 (int): 允许的最大递归深度，防止无限递归。
+            最大递归深度 (int): 允许的最大递归深度。
 
         返回值:
             str: Markdown 目录。
@@ -72,14 +88,15 @@ def JSON转MD(JSON文件路径, MD文件路径):
                 return  # 达到最大递归深度，停止递归
 
             缩进 = '  ' * 层级
-            节点ID = 节点['id']
-            节点标题 = 节点['描述'] if '描述' in 节点 else 节点['主题']
+            节点标题 = 节点['id']  # 使用 "主题" 字段作为标题
+            # 锚点名称 = 生成锚点名称(节点标题)  # 生成锚点名称
+            锚点名称=节点标题
             nonlocal 目录
-            目录 += f"{缩进}- [{节点标题}](#{节点ID})\n"
+            目录 += f"{缩进}- [{节点标题}](#{锚点名称})\n"
 
             已访问节点.add(节点['id'])  # 标记当前节点为已访问
 
-            for 子节点 in [n for n in 数据 if n.get('父_id') == 节点ID]:
+            for 子节点 in [n for n in 数据 if n.get('父_id') == 节点['id']]:
                 添加目录条目(子节点, 层级 + 1, 已访问节点)
 
         for 根节点 in [n for n in 数据 if n.get('父_id') is None]:
@@ -140,7 +157,6 @@ def 处理目录(目录路径):
                 print(f"已将 {JSON文件路径} 转换为 {MD文件路径}")
             except Exception as e:
                 print(f"处理 {JSON文件路径} 时发生错误: {e}")
-
 
 if __name__ == "__main__":
     目录 = "./tags/2025-2-19"  # 当前目录，可以替换为你的实际目录
