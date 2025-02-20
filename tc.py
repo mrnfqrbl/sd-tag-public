@@ -18,10 +18,42 @@ def 加载文件(文件路径: str, 文件类型: str = "sd"):
             data = json.load(f)
             if isinstance(data, list):
                 for item in data:
-                    yield item
+                    # 检查字典是否符合指定的格式
+                    if (
+                            isinstance(item, dict)
+                            and "唯一id" in item
+                            and "主题" in item
+                            and "中文说明" in item
+                            and "英语提示词" in item
+                            and isinstance(item["唯一id"], str)
+                            and isinstance(item["主题"], str)
+                            and isinstance(item["中文说明"], str)
+                            and isinstance(item["英语提示词"], str)
+                            and re.match(r"^\d{4}\.\d{2}\.\d{2}--\d{5}$", item["唯一id"])  # 检查唯一id的格式
+                    ):
+                        yield item
+                    else:
+                        print(f"警告：JSON 文件 {文件路径} 中的条目不符合指定的格式，已跳过。")
+                        continue  # 跳过不符合格式的条目
             elif isinstance(data, dict):
-                yield data
+                # 检查字典是否符合指定的格式
+                if (
+                        "唯一id" in data
+                        and "主题" in data
+                        and "中文说明" in data
+                        and "英语提示词" in data
+                        and isinstance(data["唯一id"], str)
+                        and isinstance(data["主题"], str)
+                        and isinstance(data["中文说明"], str)
+                        and isinstance(data["英语提示词"], str)
+                        and re.match(r"^\d{4}\.\d{2}\.\d{2}--\d{5}$", data["唯一id"])  # 检查唯一id的格式
+                ):
+                    yield data
+                else:
+                    print(f"警告：JSON 文件 {文件路径} 不符合指定的格式，已跳过。")
+                    yield None
             else:
+                print(f"警告：JSON 文件 {文件路径} 内容不是列表或字典，已跳过。")
                 yield None
     except FileNotFoundError:
         print(f"错误：文件未找到：{文件路径}")
@@ -66,6 +98,7 @@ def 处理目录(目录路径: str, 文件类型: str = "sd"):
                 markdown输出 = ""
                 json读取器 = 加载文件(文件路径, 文件类型)
                 序号 = 1
+                符合格式的数据 = False  # 标记是否有符合格式的数据
 
                 while True:
                     下一个字典 = next(json读取器, None)
@@ -73,6 +106,7 @@ def 处理目录(目录路径: str, 文件类型: str = "sd"):
                         print(f"JSON 文件 {文件路径} 读取完毕。")
                         break
                     else:
+                        符合格式的数据 = True  # 至少有一个符合格式的数据
                         markdown输出 += f"# 序号：{序号}\n"
                         markdown输出 += f"## {下一个字典['主题']}\n"
                         markdown输出 += f"### {下一个字典['中文说明']}\n"
@@ -80,15 +114,22 @@ def 处理目录(目录路径: str, 文件类型: str = "sd"):
                         markdown输出 += "---\n"  # 分隔符
                         序号 += 1
 
-                with open(输出文件路径, "w", encoding="utf-8") as md文件:
-                    md文件.write(markdown输出)
-                print(f"Markdown 数据已保存到 {输出文件路径} 文件。")
+                # 只有当存在符合格式的数据时才写入 Markdown 文件
+                if 符合格式的数据:
+                    with open(输出文件路径, "w", encoding="utf-8") as md文件:
+                        md文件.write(markdown输出)
+                    print(f"Markdown 数据已保存到 {输出文件路径} 文件。")
+                else:
+                    print(f"JSON 文件 {文件路径} 不包含任何符合格式的数据，跳过生成 Markdown 文件。")
+                    # 可选：删除已存在的 Markdown 文件，如果需要的话
+                    # if os.path.exists(输出文件路径):
+                    #     os.remove(输出文件路径)
             else:
                 print(f"跳过非 JSON 文件: {文件路径}")
         else:
             print(f"跳过目录: {文件路径}")
 
 if __name__ == "__main__":
-    输入目录 = "tags/2025-2-18"  # 替换为你的 JSON 文件所在目录，为空则使用当前目录
+    输入目录 = "tags/2025-2-19"  # 替换为你的 JSON 文件所在目录，为空则使用当前目录
     # 输入目录=""
     处理目录(输入目录, "sd")
