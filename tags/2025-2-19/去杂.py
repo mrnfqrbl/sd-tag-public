@@ -47,6 +47,6 @@ def process_json_file_in_place(file_path):
         print(f"发生错误：{e}")
 
 # 示例用法
-json_file = "小竹-r18.json"  # 替换为你的 JSON 文件名
+json_file = "小竹瑟瑟.json"  # 替换为你的 JSON 文件名
 
 process_json_file_in_place(json_file)
