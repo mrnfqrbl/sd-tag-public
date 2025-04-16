@@ -1,0 +1,430 @@
+[
+  {
+    "id": 13,
+    "主题": "樱花校园课间",
+    "中文说明": "(39个元素) 萝莉课间樱花树下的日常，含制服细节/文具/自然现象等现实元素",
+    "英语提示词": "(loli:1.4), (petite:1.3), chestnut bob cut with sakura clips, navy sailor collar crooked, chalk dust on skirt pleats, scuffed loafers with loose laces, physics textbook slipping from arm, bento box ribbon untied, three-quarter side view with falling petals, sweat bead on temple, sudden gust scattering papers, sakura shadows dappling blouse, distant baseball field cheers, pencil behind ear smudging hair, wristwatch showing 12:05, faint lunch aroma lines, crumpled test paper in wind"
+  },
+  {
+    "id": 14,
+    "主题": "雨天咖啡厅写生",
+    "中文说明": "(36个元素) 萝莉雨天速写场景，含潮湿衣着/咖啡渍/玻璃反光等现实细节",
+    "英语提示词": "(petite:1.2), (loli:1.5), damp wool beret askew, smudged charcoal fingertips, sweater sleeves pushed to elbows, cold latte ring on sketchbook, window seat reflection of neon signs, rain-streaked glasses sliding down nose, front view with table perspective, steam rising from mug, pastry crumbs on napkin, damp sock clinging to ankle, wristband indentation on pale skin, pencil shavings in saucer, umbrella dripping by chair leg, cafe ambient noise lines"
+  },
+  {
+    "id": 15,
+    "主题": "旧书店寻宝记",
+    "中文说明": "(41个元素) 萝莉探索二手书店，含灰尘效果/老旧物品/光影变化等现实元素",
+    "英语提示词": "(loli:1.3), (petite:1.4), braids tied with twine, oversized cardigan sleeves rolled, sunbeam through dust motes, creaking wooden floorboards, overstuffed bookshelf leaning, cat rubbing against ankle, low-angle view through shelves, faded price tags on spines, cracked leather bookmark found, sneeze into elbow fabric, cobweb on hanging lamp, golden hour shadows lengthening, papercut on index finger, vintage postcard as placeholder"
+  },
+  {
+    "id": 16,
+    "主题": "晨跑公园意外",
+    "中文说明": "(37个元素) 萝莉晨练突发状况，含运动装备/天气变化/微小伤等现实细节",
+    "英语提示词": "(petite:1.5), (loli:1.4), messy ponytail with flyaways, breath visible in cold air, twisted ankle on tree root, sports watch beeping urgently, dew-soaked sock sagging, morning mist burning off, dogwalker approaching in distance, front view with low sun glare, energy bar wrapper escaping pocket, fitness tracker glowing faintly, skid mark on path, birds startled from bushes, distant church bell chimes"
+  },
+  {
+    "id": 17,
+    "主题": "手工教室粘土课",
+    "中文说明": "(42个元素) 萝莉陶艺制作场景，含材料质感/工具/失误等现实元素",
+    "英语提示词": "(loli:1.6), (petite:1.3), clay-caked apron strings, smeared glasses from steam, rotating pottery wheel squeak, wet hair stuck to neck, side view with wheel splash, collapsed vase form on turntable, underglaze fingerprints on rim, kiln heat reddening cheeks, tangled apron ties behind back, drying racks casting stripes of shadow, instructor's demonstration in blurry background"
+  },
+  {
+    "id": 18,
+    "主题": "黄昏自行车故障",
+    "中文说明": "(38个元素) 萝莉放学途中修车，含机械零件/夕阳效果/日常物品",
+    "英语提示词": "(petite:1.4), (loli:1.5), grease smudge on uniform, loose bicycle chain dangling, sunset reflecting in oil puddle, schoolbag hanging on handlebars, rearview with long shadow, skinned knee through torn tights, scattered tools on pavement, fading dayglow stickers on frame, hair ribbon catching last light, distant traffic noise lines, water bottle rolling into gutter"
+  },
+  {
+    "id": 19,
+    "主题": "花店兼职日常",
+    "中文说明": "(40个元素) 萝莉花店工作场景，含植物细节/工作服/环境交互",
+    "英语提示词": "(loli:1.3), (petite:1.2), pollen in messy bun, apron pockets full of shears, rose thorn prick on thumb, refrigeration unit humming, customer doorbell jingling, three-quarter view through glass door, water droplets on carnations, price tag gun jammed, delivery box crushing daisies, soil under fingernails, receipt paper curl stuck to shoe, faint floral scent lines"
+  },
+  {
+    "id": 20,
+    "主题": "图书馆自习瞌睡",
+    "中文说明": "(35个元素) 萝莉熬夜复习场景，含学习用品/生理反应/环境细节",
+    "英语提示词": "(petite:1.5), (loli:1.4), glasses indentation on nose bridge, highlighter stains on cheek, neck pillow deflating slowly, laptop screen flickering, top-down view with book stacks, drool spot on textbook page, energy drink can sweating, pencil grip imprinted on finger, clock ticking echo, fluorescent light buzz lines"
+  },
+  {
+    "id": 21,
+    "主题": "夏日祭捞金鱼",
+    "中文说明": "(39个元素) 传统祭典游戏场景，含和服细节/水域反光/人群效果",
+    "英语提示词": "(loli:1.6), (petite:1.3), yukata sleeve dipped in water, paper net disintegrating fast, goldfish scales reflecting lanterns, obi knot slightly loose, back view with crowd bokeh, wet geta slipping on stone, festival music muffled, cotton candy melting on wrist, sweat tracing neckline, broken net fragments floating"
+  },
+  {
+    "id": 22,
+    "主题": "地铁通勤插曲",
+    "中文说明": "(36个元素) 萝莉高峰通勤场景，含城市细节/乘客互动/微小异常",
+    "英语提示词": "(petite:1.4), (loli:1.5), backpack strap digging into shoulder, delayed train notice flickering, coffee spill on platform map, three-quarter view through window, stranger's umbrella hooking hair, air conditioning draft lifting skirt, shoe scuff from turnstile, phone battery dying alert, station aroma blend lines"
+  },
+  {
+    "id": 10,
+    "主题": "魔法教室时间裂隙",
+    "中文说明": "(43个元素) 萝莉在教室触发时空异常，含扭曲制服/悬浮文具/量子碎片等细节元素",
+    "英语提示词": "(loli:1.4), (petite:1.3), twin braids with glowing ends, asymmetric school uniform sleeves, torn knee socks revealing holographic skin, floating chalk writing equations in midair, desk splitting into fractal patterns, wristwatch showing multiple time zones simultaneously, three-quarter front view with fisheye distortion, static electricity lifting skirt hem, snowflake-shaped pupils reflecting nebula, broken window pouring stardust, overturned chair casting double shadows, textbook pages morphing into feathers, steam rising from spilled milktea, aurora borealis through cracked blackboard, gravity-defying hair ribbons, calculator buttons orbiting like planets, scent lines of burnt parchment, electromagnetic sparks between fingertips"
+  },
+  {
+    "id": 11,
+    "主题": "蒸汽朋克温室暴雨",
+    "中文说明": "(38个元素) 机械萝莉暴雨中维护植物，含齿轮装置/虹吸系统/天气特效等细节元素",
+    "英语提示词": "(petite:1.5), (loli:1.6), copper-plated arm prosthetics, goggles with rotating lenses, corset with live steam valves, rain-soaked canvas apron, brass watering can spraying prismatic mist, lightning illuminating glass dome ceiling, over-the-shoulder view with Dutch angle, hydroponic tubes glowing with bioluminescence, wind-up key spinning in storm gusts, torn umbrella frame conducting electricity, mud-splattered thigh boots, cogwheel-shaped hair bun, raindrops hovering above mutant flowers, pressure gauge needles dancing wildly, exposed shoulder gears grinding sparks, terracotta pots sprouting copper vines, thermosiphon pipes pulsing with neon sap, thunder vibration lines in mud puddles"
+  },
+  {
+    "id": 12,
+    "主题": "海底神殿光折射",
+    "中文说明": "(47个元素) 人鱼萝莉守护遗迹，含流体动力学/古代符文/光学现象等细节元素",
+    "英语提示词": "(loli:1.3), (petite:1.4), pearlescent scales fading into human skin, seaweed hair extensions with shell beads, coral crown emitting faint bioglow, swirling vortex around trident tip, submerged stone columns with glowing runes, schools of fish forming geometric patterns, low-angle backlight view through water surface, air bubbles creating lens distortion, sandstorm revealing hidden murals, torn fin webbing regenerating cells, ancient pressure plate activating mechanisms, sunlight fracturing through prismatic crystal, kelp forest casting moving shadows, barnacle-encrusted tablet scriptures, luminescent plankton trails, salinity gradient refraction lines, underwater current tousling hair, eroded statue with quantum entanglement effect"
+  },
+  {
+    "id": 1,
+    "主题": "时空裂隙-量子白丝",
+    "中文说明": "科幻主题含量子装置/悬浮城市/星云投影，白丝连裤袜搭配机械腿环，视角含仰角与多重镜像折射",
+    "英语提示词": "(loli:1.4), (petite:1.3), quantum rift portal glowing, holographic stockings with circuit patterns, mechanical garter belts, levitating sneakers sparking, asymmetrical neon crop top, hologram wings flickering, mirrored floor reflecting collapsing skyscrapers, particle storm background, camera angle from below, sweat droplets floating in zero-gravity, electromagnetic hair strands, (multiple_exposure:1.2)"
+  },
+  {
+    "id": 2,
+    "主题": "赛博观音-数据莲台",
+    "中文说明": "玄幻赛博主题含机械佛光/数据莲花，汉服改良款配光纤刺绣，异常现象包括悬浮经文与AR香火",
+    "英语提示词": "(loli:1.35), (petite:1.4), cyber bodhisattva sitting cross-legged, white silk hanfu with glowing circuit embroidery, translucent chiffon sleeves, jade data beads necklace, holographic lotus platform, floating binary sutras rotating, AR incense smoke particles, cybernetic third eye blinking, backlighting with radial glitch effects, (low_angle:1.1), torn stocking with exposed nano-fiber threads"
+  },
+  {
+    "id": 3,
+    "主题": "魔法学院-咒文白丝",
+    "中文说明": "玄幻校园场景含漂浮咒文书页，洛丽塔制服配符文丝袜，动态含魔杖绘制的半透明法阵",
+    "英语提示词": "(loli:1.5), (petite:1.25), magic classroom with floating parchment storm, gothic lolita uniform with alchemy symbols, thigh-high stockings glowing runes, leather spellbook suspenders, crystal hairpin emitting mana mist, quill pen drawing mid-air arrays, (dynamic_angle:1.3), chalk dust swirling around ankles, magical backlash tearing stocking tips, glowing blush from mana overload"
+  },
+  {
+    "id": 4,
+    "主题": "地铁站口-雨夜白袜",
+    "中文说明": "城市日常场景含霓虹倒影/自动贩卖机，运动短裙配半透明雨衣，状态呈现淋湿发丝与雾气眼镜",
+    "英语提示词": "(loli:1.45), (petite:1.35), subway station entrance at midnight, white ankle socks with wet footprints, pleated tennis skirt clinging to thighs, transparent PVC raincoat flapping, convenience store plastic bag swinging, neon reflections on wet pavement, steam rising from hot drink cup, (over_shoulder_shot:1.2), raindrops sliding down eyelashes, folded umbrella dripping water"
+  },
+  {
+    "id": 5,
+    "主题": "奶茶店-双马尾白丝",
+    "中文说明": "商业街场景含玻璃幕墙反光，休闲卫衣配撕裂丝袜，动作包含咬吸管与手机屏裂细节",
+    "英语提示词": "(loli:1.4), (petite:1.4), bubble tea shop counter closeup, oversized hoodie with bunny ear hood, ripped fishnet stockings under white socks, platform sneakers stepping on spilled pearls, twin tails with light-up hair cuffs, smartphone with cracked screen reflection, (front_view:1.1), tongue touching straw tip, ice cubes melting in tilted cup"
+  },
+  {
+    "id": 6,
+    "主题": "公寓阳台-睡衣白丝",
+    "中文说明": "城市夜景含晾衣绳投影，条纹睡衣配毛绒拖鞋，异常现象包括反常圆月与逆向飘扬的床单",
+    "英语提示词": "(loli:1.5), (petite:1.3), apartment balcony night scene, striped pajamas with mismatched buttons, fuzzy slippers hanging off toes, clothesline shadows casting chessboard pattern, oversized moon with visible craters, wind blowing sheets in reverse direction, (dutch_angle:1.15), yawn with teary eyes, microwave glowing in background, cat pawing at fallen sock"
+  },
+  {
+    "id": 7,
+    "主题": "麦田守望-草帽白丝",
+    "中文说明": "农村场景含风车剪影/稻草人，改良旗袍配农作手套，异常现象包括悬浮麦穗与反重力雨滴",
+    "英语提示词": "(loli:1.38), (petite:1.45), wheat field at sunset with floating stalks, qipao modified with overalls straps, straw hat casting face shadow, dirt-stocked white knee socks, leather gloves holding rusted shears, scarecrow with missing arm waving, (wide_shot:1.25), upside down raindrops rising, tractor tire marks glowing faintly, cicada shells on shoulder"
+  },
+  {
+    "id": 8,
+    "主题": "灶台炊烟-围裙白袜",
+    "中文说明": "农村厨房含土灶火星/腌菜坛子，碎花围裙配补丁短袜，动态包含吹火筒使用与面粉飞散",
+    "英语提示词": "(loli:1.42), (petite:1.35), rural kitchen with clay stove sparks, apron with embroidered radishes, patched white socks peeking from clogs, perspiration on neck while blowing fire, flour dust swirling in sunlight, pickle jars casting long shadows, (close_up:1.3), smoke tendrils curling around ankles, burnt rice crust stuck on wooden spoon"
+  },
+  {
+    "id": 9,
+    "主题": "溪边洛丽-蝶舞白丝",
+    "中文说明": "野外溪流含荧光苔藓/枯树桥，洛丽塔洋装配透明白丝，异常现象包括停滞瀑布与晶体化锦鲤",
+    "英语提示词": "(loli:1.5), (petite:1.5), crystal clear stream with glowing moss, lolita dress with detachable lace collar, transparent tights showing toe blush, butterfly-shaped hair clock ticking, stone bridge with carved warning signs, (birds_eye_view:1.15), frozen waterfall mid-cascade, crystallized koi swimming in air, ribbon ties unraveling underwater"
+  },
+  {
+    "id": 10,
+    "主题": "林间秘径-绷带白丝",
+    "中文说明": "迷雾森林含倒生树根/石碑阵，绷带装饰配夜光运动鞋，异常现象包括悬浮碎石与逆向生长的蕨类",
+    "英语提示词": "(loli:1.45), (petite:1.4), foggy forest with upside-down roots, bandage wrap around thigh with ivy, glow-in-dark sneakers stepping on runes, stone monument circle vibrating, (tilted_frame:1.2), floating gravel forming arrows, ferns curling backward, compass spinning wildly on wrist strap, bioluminescent pollen cloud"
+  },
+  {
+    "id": 23,
+    "主题": "校园泳池训练日",
+    "中文说明": "(39个元素) 游泳部萝莉日常训练，含氯水痕迹/运动装备/环境细节",
+    "英语提示词": "(loli:1.4), (petite:1.3), wet hair clinging to neck, faded swim cap elastic marks, goggles fogging at edges, starting block texture imprinted on feet, three-quarter underwater view, chlorinated water droplets on shoulders, teammate splashes in background, pace clock beeping rhythm, towel dragging on wet floor"
+  },
+  {
+    "id": 24,
+    "主题": "便利店深夜兼职",
+    "中文说明": "(37个元素) 萝莉便利店值班场景，含收银机/食品标签/顾客互动",
+    "英语提示词": "(petite:1.5), (loli:1.4), apron nametag tilted, barcode scanner glare, cold cabinet humming, expired food check list, security mirror reflection, customer's coin slipping on counter, front view with shelf perspective, fluorescent light highlighting dark circles"
+  },
+  {
+    "id": 25,
+    "主题": "地铁站钢琴演奏",
+    "中文说明": "(42个元素) 公共场所即兴表演，含乐器细节/人群反应/建筑声学",
+    "英语提示词": "(loli:1.3), (petite:1.2), sheet music pages fluttering, polished piano lid reflection, coin in open case spinning, marble floor sound echoes, commuters slowing footsteps, wrist angle showing practice calluses, side view with arched ceiling, cold draft lifting sheet music"
+  },
+  {
+    "id": 26,
+    "主题": "宠物医院实习记",
+    "中文说明": "(38个元素) 兽医院助手日常工作，含医疗器具/动物互动/消毒细节",
+    "英语提示词": "(petite:1.4), (loli:1.5), scrubs with paw print pattern, stethoscope dragging on floor, trembling chihuahua in arms, vaccine vial labels peeling, disinfectant spray residue, back view through treatment room window, claw marks on name tag"
+  },
+  {
+    "id": 27,
+    "主题": "山间写生遇骤雨",
+    "中文说明": "(41个元素) 户外绘画突发天气，含画具损坏/自然应对/地形特征",
+    "英语提示词": "(loli:1.6), (petite:1.3), watercolor paper warping, muddy hiking boots skidding, easel leg sinking in soil, palette washed clean by rain, over-the-shoulder storm cloud view, wind flipping sketchbook pages, lightning counting ritual"
+  },
+  {
+    "id": 28,
+    "主题": "古宅智能管家",
+    "中文说明": "(科幻/45元素) 未来科技与传统建筑融合，含全息界面/纳米维护等",
+    "英语提示词": "(petite:1.5), (loli:1.4), holographic kimono patterns, retinal projection interface, paper screen displaying code, drone gardeners trimming bonsai, nanobot repair swarm on tatami, back view with augmented reality overlay, antique lamp emitting WiFi signals"
+  },
+  {
+    "id": 29,
+    "主题": "镜面平行宇宙",
+    "中文说明": "(玄幻/43元素) 神秘镜中世界探索，含空间悖论/光学异常",
+    "英语提示词": "(loli:1.3), (petite:1.6), reverse gravity hair strands, mirror showing alternate outfit, stepping through liquid mercury surface, clock hands moving backward in reflection, three-quarter view with inverted shadows, breath fogging cold glass asymmetrically"
+  },
+  {
+    "id": 30,
+    "主题": "基因花园培育师",
+    "中文说明": "(科幻/47元素) 生物科技温室管理，含发光植物/基因可视化",
+    "英语提示词": "(petite:1.2), (loli:1.5), DNA strand hair accessories, gloves glowing with bioluminescence, touchscreen plant growth charts, pollen displaying QR codes, front view through prismatic greenhouse glass, hybrid flower petal circuit patterns"
+  },
+  {
+    "id": 31,
+    "主题": "式神快递员",
+    "中文说明": "(玄幻/44元素) 阴阳师现代服务，含符咒科技/灵体互动",
+    "英语提示词": "(loli:1.4), (petite:1.3), scroll-shaped GPS device, shadow companion carrying parcels, ink brush stylus signing tablets, low-angle view with floating seals, delivery drone with paper wings, address labels written in spirit ink"
+  },
+  {
+    "id": 32,
+    "主题": "太空站失重茶道",
+    "中文说明": "(科幻/46元素) 传统技艺太空演绎，含流体控制/星际景观",
+    "英语提示词": "(petite:1.5), (loli:1.6), tea droplets forming orbital rings, magnetic tea set components, kimono weighted hem design, observation dome starscape view, surface tension manipulated matcha, three-quarter view with Earthlight glow"
+  },
+  {
+    "id": 10,
+    "主题": "城市日常",
+    "中文说明": "城市街道上的少女日常场景，包含动态动作与环境细节",
+    "英语提示词": "(loli:1.4), (petite:1.3), wavy brown hair, round glasses, slim waist, oversized hoodie, pleated mini skirt, thigh-high socks, platform shoes, cat-shaped earrings, crossing pedestrian lane, holding bubble tea, city map peeking from bag, low angle view, wind-blown hair strands, sunny with cumulus clouds, neon shop signs, tram tracks reflection, flying paper flyers, steam from manhole, 35mm film grain"
+  },
+  {
+    "id": 11,
+    "主题": "卧室日常",
+    "中文说明": "深夜卧室内的休息场景，包含睡眠相关元素与私密氛围",
+    "英语提示词": "(loli:1.35), (petite:1.45), messy twin tails, sleep marks on cheek, loose tank top, striped pajama pants, fuzzy slippers, hugging body pillow, bedside alarm clock, moonlight through curtains, back view with partial face, rumpled bedsheets, digital clock glow, faint snoring lines, midnight blue ambiance, air conditioner droplets, charging phone light, stuffed bear fallen on carpet, perspective from foot of bed"
+  },
+  {
+    "id": 33,
+    "主题": "烘焙坊面团大战",
+    "中文说明": "(38个元素)",
+    "英语提示词": "(loli:1.4), (petite:1.3), flour handprint on apron, dough stuck to rolling pin, cheek smudge from oven door, timer beeping urgently, burnt croissant aroma lines, customer pointing at eclairs, powdered sugar cloud lingering, broken eggshell in mixing bowl, oven light casting warm glow, dough cutter imprint on counter, cash register receipt jam, flour footprints on linoleum, cooling rack vibration marks, butter wrapper stuck to shoe, milk spill seeping under fridge, apron string come undone, yeast packet expiration notice, dough rising over bowl edge, rotating display case reflection, temperature gauge needle shaking, egg wash brush dripping, baking timer red numbers blurry, wheat stalk decoration tilted, recipe book spine cracking, bread scoring knife slipping, scale display flickering, dough hook throwing flour, pastry bag nozzle clogged, burnt edges smell lines, oven mitt steam stains, delivery van backing alarm, flour sack tear patched with tape, dough fermentation bubbles popping, cinnamon stick rolling away, chocolate drizzle hardening mid-air, burnt parchment paper curling"
+  },
+  {
+    "id": 34,
+    "主题": "文具店库存盘点",
+    "中文说明": "(36个元素)",
+    "英语提示词": "(petite:1.5), (loli:1.4), ink-stained fingertips, ladder wobbling slightly, post-it notes clinging to sleeve, security camera red light blinking, papercut on thumb tip, ballpoint pen test scribbles, sticker sheets static clinging, binder ring mechanism jammed, calculator button missing, pencil shavings pile shifting, eraser dust in keyboard crevices, stamp pad drying cracks, ruler edge casting shadow, fluorescent light humming frequency, receipt paper roll unraveling, correction tape cartridge empty, marker caps mismatched, paperclip chain dangling, shelf label peeling corner, cardboard box dust sneeze, scissors blade rust spot, envelope glue taste lingering, rubber stamp misalignment, inkjet cartridge leakage, calendar page curling up, paperweight leaving clean circle, pencil case zipper stuck, gift wrap ribbon static frizz, inventory list coffee ring, neon sign transformer buzz, price gun label jam, shelf divider warping, paper stack edge yellowing, safety cutter blade guard missing, fluorescent tube flicker pattern"
+  },
+  {
+    "id": 35,
+    "主题": "雨天教室值日生",
+    "中文说明": "(39个元素)",
+    "英语提示词": "(loli:1.3), (petite:1.2), wet mop dragging water trails, chalkboard eraser dust cloud, window glass condensation streams, forgotten umbrella dripping at door, wet floor sign tilted angle, bucket sloshing grey water, sponge leaving streak marks, trash bag seam leaking, broom bristles shedding, clock minute hand stuck, desk chair wheels locking, projector screen retracting jerkily, whiteboard marker fading, ceiling fan dust accumulation, curtain hem soaked, electrical outlet safety cover loose, paper recycling bin overflowing, chalk tray mildew spots, window latch rust resistance, doorstop rubber worn smooth, bulletin board pin corrosion, fire extinguisher pressure gauge, wall clock battery compartment open, desk graffiti under laminate, chair leg protective cap missing, light switch fingerprints, ventilation grate dust webs, blackboard compass hole worn, window pulley mechanism squeak, wall map corner peeling, teacher's desk drawer jam, emergency exit sign wiring, bookshelf wood warping, floor tile grout discoloration, ceiling water stain spreading, door closer hydraulic leak, electrical panel warning sticker, fire alarm test date overdue"
+  },
+  {
+    "id": 12,
+    "主题": "地铁通勤",
+    "中文说明": "早高峰地铁内的学生少女，包含通勤装备与环境互动",
+    "英语提示词": "(loli:1.32), (petite:1.42), twin braids with red ribbons, sleepy eyes, school uniform blazer, pleated skirt with safety shorts, leather loafers, hanging IC card lanyard, gripping overhead handle, swaying with train motion, crowded platform reflection, morning light through windows, briefcase corner dent, fallen hairpin near feet, 3/4 side view, blinking fatigue expression, air conditioning draft, station melody echoes, vibrating floor lines, 45 phrases"
+  },
+  {
+    "id": 13,
+    "主题": "便利店邂逅",
+    "中文说明": "深夜便利店的偶遇场景，结合冷柜灯光与商品细节",
+    "英语提示词": "(loli:1.55), (petite:1.28), messy ponytail, bitten lip, oversized parka, thermal leggings, fluffy bedroom slippers, reaching for yogurt shelf, refrigerated glow on face, instant noodle stack background, security mirror distortion, fogged glass door, rain streaks outside, convenience store chime, tilted 45-degree angle, visible breath vapor, melted ice cream puddle, lottery ticket scraps, 52 elements"
+  },
+  {
+    "id": 14,
+    "主题": "公园长椅",
+    "中文说明": "午后公园休憩场景，表现自然光影与动态姿势",
+    "英语提示词": "(loli:1.43), (petite:1.37), hime-cut hairstyle, freckled nose, cropped sweater, denim overall shorts, lace ankle socks, slumped on wooden bench, half-eaten sandwich, scattered sakura petals, dappled sunlight patterns, distant playground sounds, butterfly shadow on neck, low-angle from ground level, stretched leg posture, breeze ripple in hair, vending machine glare, 48 descriptors"
+  },
+  {
+    "id": 15,
+    "主题": "雨天巴士站",
+    "中文说明": "暴雨中的候车情景，强调湿润质感与倒影效果",
+    "英语提示词": "(loli:1.49), (petite:1.33), soaked bangs, flushed cheeks, transparent raincoat, rolled-up jeans, waterlogged sneakers, clutching umbrella handle, bus headlight glare, rippling pavement reflections, fogged-up timetable, dripping shelter edges, rear 3/4 perspective, shivering shoulders, lightning flash imprint, thunder vibration lines, rainbow oil slick, 63 keywords"
+  },
+  {
+    "id": 16,
+    "主题": "天台日落",
+    "中文说明": "城市屋顶的黄昏时刻，融合建筑轮廓与光学现象",
+    "英语提示词": "(loli:1.58), (petite:1.46), wind-tousled bobcut, golden hour glow, oversized band tee, torn fishnet stockings, choker with pendant, leaning on guardrail, city skyline silhouette, lens flare artifacts, airborne plastic bag, fluttering homework sheets, deep perspective lines, elongated shadow, heat haze waves, satellite dish reflection, pigeon feather floating, 55 entries"
+  },
+  {
+    "id": 17,
+    "主题": "晨间赖床",
+    "中文说明": "抗拒起床的慵懒状态，表现被褥纹理与光线变化",
+    "英语提示词": "(loli:1.35), (petite:1.52), bedhead hairstyle, pillow crease marks, spaghetti strap nightdress, kicked-off duvet, curled fetal position, alarm clock red digits, sunrise gradient curtains, crumpled tissue pile, stuffed animal underarm, top-down view, drooling corner, dust motes in light beam, aircon condensation trails, 47 components"
+  },
+  {
+    "id": 18,
+    "主题": "深夜追剧",
+    "中文说明": "熬夜观影的私密空间，突出屏幕光影与零食细节",
+    "英语提示词": "(loli:1.41), (petite:1.29), disheveled bun, dark circles, oversized hoodie, knee-high socks, laptop glow on face, chip crumbs on sheets, soda can condensation, cable clutter shadows, paused drama frame, reflection in window, skewed pillow angle, snack bag rustle lines, blue light filter tint, 39 elements"
+  },
+  {
+    "id": 19,
+    "主题": "更衣瞬间",
+    "中文说明": "睡衣更换的过渡状态，捕捉布料运动与空间关系",
+    "英语提示词": "(loli:1.37), (petite:1.44), half-undone braid, flushed ears, half-buttoned pajama top, discarded jeans on floor, stretching pose, wardrobe mirror frame, sock suspended mid-air, curtain semi-transparency, clothing rack blur, dynamic motion lines, fabric stretching seams, folded bedsheet edges, 58 descriptors"
+  },
+  {
+    "id": 20,
+    "主题": "午睡惊梦",
+    "中文说明": "突发惊醒的瞬间状态，结合梦境残像与现实物品",
+    "英语提示词": "(loli:1.53), (petite:1.31), sweat-damp bangs, widened pupils, twisted bedsheet, fallen pillow, alarm clock vibration blur, evaporating dream bubbles, floating clock gears, melting wall patterns, suspended water droplets, camera roll effect, double exposure overlay, 42 phrases"
+  },
+  {
+    "id": 21,
+    "主题": "冬日暖床",
+    "中文说明": "寒冷早晨的贪暖情景，表现温度对比与材质差异",
+    "英语提示词": "(loli:1.48), (petite:1.39), nose-tip redness, fuzzy earmuffs, thermal underwear lines, layered blankets, hot water bottle bulge, window frost crystals, rising breath clouds, radiator glow lines, buried posture, mug steam swirls, knitted throw texture, 36 elements"
+  },
+  {
+    "id": 36,
+    "主题": "便利店深夜补货",
+    "中文说明": "(42个元素) 凌晨商品上架场景，含货架摩擦痕/标签错位/冷链设备",
+    "英语提示词": "(petite:1.4), (loli:1.5), hairnet slipping backwards, box cutter blade stuck, price gun ink smudge, dairy case cold mist, ladder wheel lock malfunction, expired product alert list, security tag deactivator beep, three-quarter view with freezer aisle, cardboard edge papercut on palm, pallet jack hydraulic leak, snack bag inflation pressure, broken egg yolk seeping box, shelf label moisture curl, plastic wrap static cling, inventory scanner glare, receipt paper jam sound, cooler fan blade dust, milk crate imprint on thigh, spilled rice grain crunch, label printer ribbon tangle, frozen pizza box condensation, bubble wrap popping underfoot, discount sticker overlay error, vending machine refill chime, energy drink can dent, bread bag twist tie missing, chip bag nitrogen puff, security mirror blind spot, floor wax streak marks, price tag gun battery low, snack bar broken seal, coin rolling under shelf, cleaning cart wheel squeak, light fixture dead moth, register tape carbon copy, plastic hanger hook bend, yogurt cup lid seal fail, security gate test beep, delivery van reverse sensor, hand sanitizer viscosity trails"
+  },
+  {
+    "id": 37,
+    "主题": "洗衣房周末日常",
+    "中文说明": "(47个元素) 自助洗衣场景，含织物磨损/机械振动/化学残留",
+    "英语提示词": "(loli:1.3), (petite:1.6), detergent cap stuck threads, lint filter hair cluster, coin slot rejection scratches, folding table rust stains, three-quarter view through porthole, washing machine imbalance thump, fabric softener spill slickness, dryer sheet static sparks, sock missing partner search, jeans button drum impact dent, color bleed accident streaks, elastic waistband fatigue marks, zipper teeth alignment defect, front loader door seal mold, folding marker crease mismatch, ironing board cover scorch, clothespin spring rust, lost button collection jar, thread unraveling from hem, mothball aroma cling lines, bleach splash discoloration, mesh bag zipper snag, hanger shoulder dimples, sewing kit needle oxidation, timer dial paint wear, water temperature gauge fog, detergent scoop mineral buildup, fabric shrinkage comparison, stain treatment pen empty, dryer vent lint plume, coin return jam vibration, folding crease precision check, fabric pilling observation, missing sock board pins, washing label symbol decode, load imbalance warning light, spin cycle water trails, detergent coupon expiration, moisture sensor false trigger, color sorting mistake evidence, lint trap fire warning, load capacity gauge fluctuation, emergency stop button dust"
+  },
+  {
+    "id": 38,
+    "主题": "校园社团招新日",
+    "中文说明": "(45个元素) 招新活动场景，含传单磨损/展板结构/人群互动",
+    "英语提示词": "(petite:1.2), (loli:1.6), staple remover finger pinch, poster corner tape failure, brochure rack tilt angle, sign-up sheet coffee ring, three-quarter view with crowd depth, tablecloth friction shift, banner rope friction fray, marker bleeding through paper, clipboard spring tension loss, chair leg grass penetration, balloon static hair lift, megaphone feedback screech, sunscreen neck stripe, shoe sole brochure adhesion, tent pole joint creak, QR code glare defect, name tag pin clutch loss, spreadsheet column misalign, pencil grip sweat warping, water bottle condensation pool, flyer recycling bin overflow, sign pen ink starvation, badge ribbon weave snag, table weight distribution tilt, wristband adhesion residue, sign-up pen chain tangle, step ladder safety sticker, extension cord trip hazard, photo sample curl edges, banner grommet tear stress, brochure staple count error, cloud shadow timing mismatch, wind gust paperweight fail, shoe lace debris pickup, registration table wobble, inkjet print banding, plastic chair UV fade, tent fabric stress stitch, event schedule rain smudge, volunteer roster coffee stain, prize wheel bearing grit, microphone pop filter dent, feedback form pencil dent, timestamp device drift"
+  },
+  {
+    "id": 39,
+    "主题": "老旧公寓电梯困人",
+    "中文说明": "(43个元素) 电梯故障场景，含机械老化/应急设备/空间限制",
+    "英语提示词": "(loli:1.4), (petite:1.5), emergency button paint wear, cable vibration harmonics, inspection certificate expiry, floor display segment fault, three-quarter view with mirror distortion, air vent dust accumulation, handrail polish loss spots, weight limit gauge drift, fire hose valve corrosion, emergency light battery alert, ceiling panel screw rust, floor number button sticking, keyhole wear pattern, door track debris jam, control panel capacitor hum, safety certificate forgery, ventilation fan blade imbalance, emergency phone cord knot, floor level sensor dust, cable grease seepage, door closing speed variance, emergency exit tool marks, elevator shaft echo resonance, hydraulic fluid odor lines, emergency brake test date, lighting fixture flicker code, inspection log penmanship, button panel UV fade, fire extinguisher seal break, floor mat slip hazard, CCTV lens smudge, door safety beam moss, emergency hatch tool scratch, cable wear indicator exposure, speed governor oil leak, counterweight chain slack, position sensor alignment, emergency power switch dust, control chip overheating, door rubber seal dry rot, cable pulley groove wear"
+  },
+  {
+    "id": 40,
+    "主题": "深夜快餐店值班",
+    "中文说明": "(48个元素) 快餐店运营场景，含油渍累积/设备疲劳/夜间生态",
+    "英语提示词": "(petite:1.3), (loli:1.6), fryer oil splash pattern, condiment pump clog rhythm, napkin dispenser spring fatigue, menu board LED burnout, three-quarter view through drive-thru, floor mat grease absorption, ice machine scale buildup, receipt printer ink fade, soda nozzle syrup crust, uniform name tag fade, cleaning chemical skin irritation, trash compactor hydraulic whine, food warmer condensation drip, cash drawer coin jam, kitchen timer spring wear, sauce packet seam weakness, paper cup rim lipstick, plastic lid warpage, straw wrapper static cling, freezer door frost adhesion, sanitizer solution concentration, floor drain clog evidence, light fixture insect carcass, condiment bar spill map, soda machine carbonation, coffee urn scale lines, emergency exit alarm tape, menu specials erasure, order screen touch lag, uniform hem fray pattern, sneaker sole grease imprint, wall tile grout mildew, exhaust fan grease filter, refrigerator door seal tear, pickle slicer blade nick, ketchup bottle cap thread, milkshake machine cavitation, wrapper static shock, salt shaker moisture, ice scoop chain tarnish, trash can pedal spring, receipt paper thermal fade, coffee stirrer wood grain, napkin embossing defect, floor slope liquid flow, condiment caddy tilt"
+  },
+
+  {
+    "id": 41,
+    "主题": "溪流岩石采样",
+    "中文说明": "(46个元素) 水文调查场景，含侵蚀痕迹/采样工具/水生生态",
+    "英语提示词": "(loli:1.5), (petite:1.4), wader neoprene abrasion, current meter propeller tangle, sample bottle label dissolve, three-quarter view with riffle flow, rock lichen scrape marks, pH paper color ambiguity, thermometer capillary break, sediment core layer shift, flow velocity gauge jam, waterproof notebook warpage, insect net handle splinter, boot sole algae slickness, rock hammer handle sweat, GPS device screen glare, specimen bag zipper fail, clinometer bubble drift, water turbidity tube error, sampling pole length mark, streambed pebble imprint, knee pad mud saturation, bank erosion root exposure, dissolved oxygen probe lag, conductivity meter drift, solar calculator battery, field guide page damp, camera lens fog pattern, insect repellent skin, sampling grid cord snag, tree canopy light shift, hat band sweat stain, sock moisture wicking, wrist compass fluid, topographic map fold, pencil lead humidity, rain jacket seam leak, slope gradient error, soil auger thread, rock fracture lichen, water strider ripple, dragonfly wing defect, mayfly nymph case, caddisfly tube material, stonefly gill movement"
+  },
+  {
+    "id": 42,
+    "主题": "高山气象观测",
+    "中文说明": "(49个元素) 高海拔监测场景，含设备冻害/生理反应/极端天气",
+    "英语提示词": "(petite:1.2), (loli:1.6), anemometer bearing freeze, barometer dial frost, hygrometer hair tension, three-quarter view with lenticular cloud, glove fingertip wear, oxygen tank valve ice, sunscreen nose streak, altimeter pressure lag, crampon point blunting, ice axe shaft flex, sunglass UV coating, thermos cap thread frost, notebook paper brittleness, pencil graphite hardness, wind chill calculation, boot insulation compression, sock layering friction, gaiters Velcro ice, radio signal refraction, battery lithium cold, GPS altitude error, tent guyline vibration, sleeping bag loft, stove fuel viscosity, water bottle freeze, food ration seal, urine color chart, headache scale note, pupil dilation check, nail bed cyanosis, respiratory rate log, wind speed chill, solar panel angle, battery charge loss, data logger memory, satellite dish ice, instrument shelter drift, evaporation pan ice, snow stake burial, frost heave gauge, permafrost probe, avalanche transceiver, crevasse pattern, cornice fracture, sun azimuth angle, glacier flow crack, katabatic wind eddy"
+  },
+  {
+    "id": 43,
+    "主题": "雨林树冠研究",
+    "中文说明": "(47个元素) 高空作业场景，含绳索磨损/生态互动/微气候",
+    "英语提示词": "(loli:1.3), (petite:1.5), harness webbing UV, carabiner gate stick, ascender teeth wear, three-quarter canopy view, pulley block friction, rope sheath abrasion, epiphyte root moisture, machete edge notch, altimeter pressure, compass fluid bubble, humidity paper curl, insect bite pattern, leech blood engorge, ant trail pheromone, bromeliad tank life, liana tensile test, canopy fog drip, buttress root biofilm, tree core borer, lichen substrate pH, moss microclimate, fern spore print, orchid pollinia, bat guano splatter, termite mound, snake shed skin, bird feather barb, frog toe pad, resin collection, latex coagulation, camouflage pattern, sweat evaporation, dehydration scale, water filter clog, ration packaging, solar still, hammock sag, mosquito net, headlamp beam, notebook mold, pencil fungus, watch condensation, sock leech, boot rot, hat ventilation"
+  },
+  {
+    "id": 44,
+    "主题": "沙漠水文勘探",
+    "中文说明": "(48个元素) 干旱区作业场景，含蒸发痕迹/设备过热/地质特征",
+    "英语提示词": "(petite:1.4), (loli:1.5), solar still condensation, ground penetrating radar, three-quarter view with mirage, sand dune slip face, gypsum crystal formation, evaporite crust crack, soil auger friction, wind erosion pedestal, dust storm filter, camel thorn puncture, canteen water ration, hat ventilation, sunscreen neck drip, GPS signal multipath, compass declination, topographic map, sediment trap, anemometer bearing, hygrometer error, barometric trend, rock varnish sample, lichen growth, shade netting, solar panel angle, battery overheat, radio static, boot sole melt, clothing UV fade, sweat salt, urine color, nasal membrane, lip chap, eye squint, sand ripple, dust devil, heat shimmer, salt pan, playa cracks, wadi gravel, alluvial fan, mesa shadow, arroyo cut, caliche layer, petroglyph patina, artifact scatter, fossil imprint, rodent burrow"
+  },
+  {
+    "id": 45,
+    "主题": "极地冰芯钻探",
+    "中文说明": "(50个元素) 冰川作业场景，含低温损伤/冰层特征/极端防护",
+    "英语提示词": "(loli:1.6), (petite:1.3), ice auger blade, core barrel fracture, three-quarter view with sastrugi, thermal glove, battery capacity, LCD screen lag, antifreeze viscosity, fuel gel, stove nozzle, tent pole, sleeping bag, moisture control, frostbite check, calorie intake, urine bottle, waste management, wind chill, sun dog, ice fog, pressure ridge, crevasse detector, snow pit, stratigraphy, melt layer, volcanic ash, isotope ratio, gas bubble, ice crystal, drill torque, core fracture, labeling system, storage tube, chain of custody, data logger, satellite transmission, aurora interference, solar angle, battery drain, facial frost, eyelash ice, beard icicle, boot insulation, sock layering, hand warmer, chemical heater, radio static, emergency beacon, first aid, hypothermia wrap, evacuation plan, storm shelter"
+  },
+  {
+    "id": 22,
+    "主题": "咖啡厅写生",
+    "中文说明": "城市咖啡厅内的创作场景，结合餐饮器具与电子设备细节",
+    "英语提示词": "(loli:1.47), (petite:1.38), ash blonde hair with green highlights, cat-eye contact lenses, slim wrists, apron dress with puff sleeves, cross-strap Mary Jane shoes, lace fingerless gloves, sketching on tablet, latte art drips, laptop sticker collage, cafe window reflections, afternoon golden hour, hanging pendant lamps, steam swirls from cup, biscuit crumbs scatter, tilted sketchbook angle, charging cable coil, aircon leaf movement, pencil shavings pile, wristwatch glare, 42 phrases"
+  },
+  {
+    "id": 23,
+    "主题": "图书馆迷途",
+    "中文说明": "古老图书馆的探索情景，强调书籍纹理与光影交错",
+    "英语提示词": "(loli:1.52), (petite:1.41), twin buns with bookmarks, round wire-frame glasses, ink-stained fingertips, tweed vest dress, knee-length bloomers, oxford shoes with buckles, tiptoe reaching shelf, dust motes in sunbeam, antique globe shadow, fallen bookmark trail, cobweb corner detail, ladder reflection on floor, parchment texture overlay, flickering candlelight, 38 elements"
+  },
+  {
+    "id": 24,
+    "主题": "电车通学",
+    "中文说明": "上学途中的交通场景，融合制服细节与城市动态",
+    "英语提示词": "(loli:1.33), (petite:1.56), navy ribbon hair bow, morning sleepy expression, sailor collar uniform, pleated skirt with safety pins, leather schoolbag straps, hanging commuter pass, gripping hand strap, passing building reflections, tram wire sparks, scattered test papers, seat pattern imprint, window condensation trails, platform chime echoes, shoe scuff marks, 45 phrases"
+  },
+  {
+    "id": 25,
+    "主题": "浴后护理",
+    "中文说明": "浴室护理的私密时刻，表现水汽质感与护理用品",
+    "英语提示词": "(loli:1.44), (petite:1.42), damp hair updo, steamy mirror surface, terry cloth robe, fuzzy slippers, skincare bottles array, fogged shower door, towel rack shadows, dripping faucet closeup, skincare brush bristles, cotton pad texture, skincare glow effect, bathroom tile pattern, product label reflections, 37 descriptors"
+  },
+  {
+    "id": 26,
+    "主题": "晴空晾衣",
+    "中文说明": "阳台晾晒的家居场景，结合布料运动与城市背景",
+    "英语提示词": "(loli:1.39), (petite:1.51), braided pigtails with clips, sun-kissed shoulders, oversized button-up shirt, striped boxer shorts, clothespin grip closeup, fluttering bedsheet waves, distant laundry lines, clothes pole bending, cloud shadows moving, clothespin basket tilt, clothes pattern projections, wind-chime sparkles, 43 elements"
+  },
+  {
+    "id": 27,
+    "主题": "夜灯缝补",
+    "中文说明": "深夜修补衣物的专注场景，突出光影对比与工具细节",
+    "英语提示词": "(loli:1.54), (petite:1.36), half-up hairstyle with needle, focused brow furrow, patched cardigan, rolled-up sleeves, thimble reflection, thread spool shadows, fabric tension lines, scissors blade glint, pincushion tomato shape, table lamp halo effect, broken button pile, measuring tape curl, 39 phrases"
+  },
+  {
+    "id": 28,
+    "主题": "花店兼职",
+    "中文说明": "花店工作的互动场景，融合植物细节与商业元素",
+    "英语提示词": "(loli:1.45), (petite:1.43), flower crown braid, gardening gloves, denim apron with pockets, rubber boots with mud, watering can stream, price tag string, cash register glow, petal debris pile, floral fridge condensation, bouquet wrapping paper, customer shadow outline, ribbon curl details, 47 descriptors"
+  },
+  {
+    "id": 29,
+    "主题": "雪夜归途",
+    "中文说明": "暴风雪中的回家场景，强调气候影响与防护装备",
+    "英语提示词": "(loli:1.49), (petite:1.34), snow-capped hood, reddened nose tip, down parka with fur trim, thermal ski pants, snow boots imprint, struggling with umbrella, streetlight halo effect, snowdrift accumulation, footprints filling fast, scarf ice crystals, bus shelter glow, snowflake closeup patterns, 41 elements"
+  },
+  {
+    "id": 30,
+    "主题": "旧物整理",
+    "中文说明": "阁楼清理的怀旧场景，结合尘封物品与记忆元素",
+    "英语提示词": "(loli:1.37), (petite:1.47), bandana headwrap, dust smudge cheek, overalls with patches, fingerless gloves, opened trunk interior, photo album stack, vintage doll parts, clock spring debris, cobweb silk strands, sunlight beam particles, faded letter fragments, music box mechanism, 44 phrases"
+  },
+  {
+    "id": 31,
+    "主题": "晨练意外",
+    "中文说明": "公园晨运的突发状况，表现动态姿势与自然互动",
+    "英语提示词": "(loli:1.56), (petite:1.32), high ponytail swing, sports headband, cropped track jacket, bike shorts, fallen water bottle, shoelace untied, dew grass reflections, flying hair tie, bench press shadow, fitness tracker glow, startled bird flight, 37 descriptors"
+  },
+  {
+    "id": 51,
+    "主题": "书店咖啡角速写",
+    "中文说明": "(38元素) 严格符合数量规范的人物中心化描述",
+    "英语提示词": "(loli:1.5), (petite:1.4), chestnut hair with blunt bangs, almond eyes blinking sleepily, petite frame leaning on counter, lace-trimmed apron over striped sweater, rolled denim sleeves, scuffed Mary Jane shoes, hairclip sliding sideways, three-quarter front view with tilted head, yawning while wiping espresso machine, steam cloud blurring cheek轮廓, trembling fingers arranging macarons, faint blush from oven heat, coffee droplet on apron lace, stray curl clinging to neck sweat, paperback novel peeking from apron pocket"
+  },
+  {
+    "id": 52,
+    "主题": "樱花坡道单车少女",
+    "中文说明": "(42元素) 人物细节占比60%的日常场景",
+    "英语提示词": "(petite:1.3), (loli:1.6), ash-blonde ponytail whipping sideways, rose-tinted cheeks puffing, school ribbon dangling loose, sailor collar flapping open, knee-high socks sagging, scuffed loafers pedaling frantically, over-shoulder view with windblown petals, squeaking brakes leaving skid marks, trembling thighs straining uphill, sweat-damp bangs plastered to forehead, bento box strap slipping off shoulder, textbook pages fluttering from basket, chipped nail polish gripping handlebars, sakura petal caught in eyelashes"
+  },
+  {
+    "id": 53,
+    "主题": "实验室药剂泼溅",
+    "中文说明": "(45元素) 人物动态与服装细节强化",
+    "英语提示词": "(loli:1.4), (petite:1.5), silver twin tails flying, goggles imprint on freckled nose, oversized lab coat sleeve catching beaker, safety pin clasp coming undone, knee-length rubber boots splashed, three-quarter back view with startled jump, tripping over loose shoelace, chemical spray arcing through air, gloved fingers slipping on vial, apron string unravelling mid-fall, broken test tube glittering in hair, safety manual pages fanning open, startled scream echoing off tiles"
+  }
+
+]

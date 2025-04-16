@@ -1,0 +1,828 @@
+{
+  "角色": {
+    "1": {
+      "中文": "时雨绮罗（崩坏学园2/崩坏3）（糖露星霜/水晶糖）",  // 修正多游戏归属并补充别名
+      "英语": "Shigure Kira (Honkai Impact 3)"
+    },
+    "2": {
+      "中文": "白露（崩坏：星穹铁道）",
+      "英语": "bailu (honkai: star rail)"
+    },
+    "3": {
+      "中文": "猫羽雫",
+      "英语": "Nachoneko"
+    },
+    "4": {
+      "中文": "猫羽雫（独立虚拟主播）",
+      "英语": "nachoneko （indie virtual youtuber）"
+    },
+    "5": {
+      "中文": "塔什干（碧蓝航线）",
+      "英语": "tashkent_(azur_lane)"
+    },
+    "6": {
+      "中文": "琪露诺（东方Project）",
+      "英语": "Cirno (Touhou Project)"
+    },
+    "7": {
+      "中文": "罗莎蒙德（明日方舟）",
+      "英语": "rosmontis (arknights)"
+    },
+    "8": {
+      "中文": "小春（蓝色档案）",
+      "英语": "koharu_(blue_archive)"
+    },
+    "9": {
+      "中文": "世莉架（新年）（蓝色档案）",
+      "英语": "Serika (New Year) (blue archive)"
+    },
+    "10": {
+      "中文": "绮良良（原神）",
+      "英语": "Kirara (Genshin Impact)"
+    },
+    "11": {
+      "中文": "格蕾修（崩坏3）",
+      "英语": "Griseo (Honkai Impact 3)"
+    },
+    "12": {
+      "中文": "帕朵菲莉丝（崩坏3）",
+      "英语": "Pardofelis_(honkai impact3rd)"
+    },
+    "13": {
+      "中文": "纳西妲（原神）（小吉祥草王）",  // 补充别名
+      "英语": "nahida_(genshin_impact)"
+    },
+    "14": {
+      "中文": "派蒙（原神）（应急食品）",  // 补充别名
+      "英语": "paimon_(genshin_impact)"
+    },
+    "15": {
+      "中文": "瑶瑶（原神）",
+      "英语": "yaoyao (genshin impact)"
+    },
+    "16": {
+      "中文": "早柚（原神）",
+      "英语": "sayu_(genshin_impact)"
+    },
+    "17": {
+      "中文": "迪奥娜（原神）（猫猫）",  // 补充别名
+      "英语": "diona_(genshin_impact)"
+    },
+    "18": {
+      "中文": "七七（原神）（僵尸小妹妹）",  // 补充别名
+      "英语": "qiqi_(genshin_impact)"
+    },
+    "19": {
+      "中文": "惊蛰（明日方舟）",
+      "英语": "Grain Buds_(arknights)"
+    },
+    "20": {
+      "中文": "温蒂（明日方舟）",
+      "英语": "Warmy_(arknights)"
+    },
+    "21": {
+      "中文": "缪尔赛思（明日方舟）",
+      "英语": "Muelsyse_(arknights)"
+    },
+    "22": {
+      "中文": "云堇（原神）",
+      "英语": "yunjin_(genshin_impact)"
+    },
+    "23": {
+      "中文": "布丁（明日方舟）",
+      "英语": "Pudding_(arknights)"
+    },
+    "24": {
+      "中文": "极光（明日方舟）",
+      "英语": "Aurora_(arknights)"
+    },
+    "25": {
+      "中文": "九色鹿（明日方舟）",
+      "英语": "Nine-Colored Deer_(arknights)"
+    },
+    "26": {
+      "中文": "柏喙（明日方舟）",
+      "英语": "Kazemaru_(arknights)"
+    },
+    "27": {
+      "中文": "闪灵（明日方舟）",
+      "英语": "Goldenglow_(arknights)"
+    },
+    "28": {
+      "中文": "阿米娅（明日方舟）",
+      "英语": "Amiya_(arknights)"
+    },
+    "29": {
+      "中文": "场景（明日方舟）",
+      "英语": "Scene_(arknights)"
+    },
+    "30": {
+      "中文": "絮雨（明日方舟）",
+      "英语": "Suzuran_(arknights)"
+    },
+    "31": {
+      "中文": "泡普卡（明日方舟）",
+      "英语": "Folinic_(arknights)"
+    },
+    "32": {
+      "中文": "Castle-3（明日方舟）",
+      "英语": "Catapult_(arknights)"
+    },
+    "33": {
+      "中文": "长岛（碧蓝航线）",
+      "英语": "Long Island_(Azur Lane )"
+    },
+    "34": {
+      "中文": "可畏（碧蓝航线）",
+      "英语": "Formidable_(Azur Lane )"
+    },
+    "35": {
+      "中文": "雪风（碧蓝航线）",
+      "英语": "Yukikaze_(Azur Lane )"
+    },
+    "36": {
+      "中文": "初霜（碧蓝航线）",
+      "英语": "Hatsushimo_(Azur Lane )"
+    },
+    "37": {
+      "中文": "明石（碧蓝航线）",
+      "英语": "Akashi_(Azur Lane )"
+    },
+    "38": {
+      "中文": "岛风（碧蓝航线）",
+      "英语": "Shimakaze_(Azur Lane )"
+    },
+    "39": {
+      "中文": "如月（碧蓝航线）",
+      "英语": "Kisaragi_(Azur Lane )"
+    },
+    "40": {
+      "中文": "清浪（碧蓝航线）",
+      "英语": "Kiyonami_(Azur Lane )"
+    },
+    "41": {
+      "中文": "浜风（碧蓝航线）",
+      "英语": "Hamakaze_(Azur Lane )"
+    },
+    "42": {
+      "中文": "荒潮（碧蓝航线）",
+      "英语": "Arashio_(Azur Lane )"
+    },
+    "43": {
+      "中文": "拉菲（碧蓝航线）（所罗门的战神/睡觉拉菲）",  // 补充别名
+      "英语": "Laffey_(Azur Lane )"
+    },
+    "44": {
+      "中文": "真波（碧蓝航线）",
+      "英语": "Makinami_(Azur Lane )"
+    },
+    "45": {
+      "中文": "喀琅施塔得（碧蓝航线）",
+      "英语": "Kalk_(Azur Lane )"
+    },
+    "46": {
+      "中文": "斯特拉斯堡（碧蓝航线）",
+      "英语": "Stremitelny_(Azur Lane )"
+    },
+    "47": {
+      "中文": "凉月（碧蓝航线）",
+      "英语": "Kazagumo_(Azur Lane )"
+    },
+    "48": {
+      "中文": "普兰娜（蓝色档案）",
+      "英语": "plana_(blue_archive)"
+    },
+    "49": {
+      "中文": "日富美（泳装）（蓝色档案）",
+      "英语": "Hifumi (Swimsuit)_(blue_archive)"
+    },
+    "50": {
+      "中文": "普兰娜（蓝色档案）",
+      "英语": "plana_(blue_archive)"
+    },
+    "51": {
+      "中文": "星野（蓝色档案）（大叔）",  // 补充别名
+      "英语": "hoshino_(blue_archive)"
+    },
+    "52": {
+      "中文": "美冬（蓝色档案）",
+      "英语": "Mikoto_(blue_archive)"
+    },
+    "53": {
+      "中文": "亚里沙（蓝色档案）",
+      "英语": "Arisu_(blue_archive)"
+    },
+    "54": {
+      "中文": "枫（蓝色档案）",
+      "英语": "Kaede_(blue_archive)"
+    },
+    "55": {
+      "中文": "切里诺（温泉）（蓝色档案）",
+      "英语": "Cherino (Hot Spring)_(blue_archive)"
+    },
+    "56": {
+      "中文": "初音未来（蓝色档案）",
+      "英语": "Hatsune Miku_(blue_archive)"
+    },
+    "57": {
+      "中文": "日富美（蓝色档案）",
+      "英语": "Hifumi_(blue_archive)"
+    },
+    "58": {
+      "中文": "日富美（泳装）（蓝色档案）",
+      "英语": "Hifumi (Swimsuit)_(blue_archive)"
+    },
+    "59": {
+      "中文": "星野（泳装）（蓝色档案）",
+      "英语": "Hoshino (Swimsuit)_(blue_archive)"
+    },
+    "60": {
+      "中文": "小春（蓝色档案）",
+      "英语": "Koharu_(blue_archive)"
+    },
+    "61": {
+      "中文": "心乃（蓝色档案）",
+      "英语": "Kokona_(blue_archive)"
+    },
+    "62": {
+      "中文": "美弥子（蓝色档案）",
+      "英语": "Miyako_(blue_archive)"
+    },
+    "63": {
+      "中文": "美弥子（泳装）（蓝色档案）",
+      "英语": "Miyako (Swimsuit)_(blue_archive)"
+    },
+    "64": {
+      "中文": "萌（泳装）（蓝色档案）",
+      "英语": "Moe (Swimsuit)_(blue_archive)"
+    },
+    "65": {
+      "中文": "美由（蓝色档案）",
+      "英语": "Miyu_(blue_archive)"
+    },
+    "66": {
+      "中文": "百木（女仆）（蓝色档案）",
+      "英语": "Momoi (Maid)_(blue_archive)"
+    },
+    "67": {
+      "中文": "夏（蓝色档案）",
+      "英语": "Natsu_(blue_archive)"
+    },
+    "68": {
+      "中文": "乃亚（蓝色档案）",
+      "英语": "Noa_(blue_archive)"
+    },
+    "69": {
+      "中文": "野々宫（温泉）（蓝色档案）",
+      "英语": "Nodoka (Hot Spring)_(blue_archive)"
+    },
+    "70": {
+      "中文": "野々美（泳装）（蓝色档案）",
+      "英语": "Nonomi (Swimsuit)_(blue_archive)"
+    },
+    "71": {
+      "中文": "玲央（蓝色档案）",
+      "英语": "Reisa_(blue_archive)"
+    },
+    "72": {
+      "中文": "咲希（蓝色档案）",
+      "英语": "Saki_(blue_archive)"
+    },
+    "73": {
+      "中文": "世莉架（新年）（蓝色档案）",
+      "英语": "Serika (New Year)_(blue_archive)"
+    },
+    "74": {
+      "中文": "世莉架（泳装）（蓝色档案）",
+      "英语": "Serika (Swimsuit)_(blue_archive)"
+    },
+    "75": {
+      "中文": "时雨（温泉）（蓝色档案）",
+      "英语": "Shigure (Hot Spring)_(blue_archive)"
+    },
+    "76": {
+      "中文": "白子（泳装）（蓝色档案）（水仓唯）",  // 补充别名
+      "英语": "Shiroko (Swimsuit)_(blue_archive)"
+    },
+    "77": {
+      "中文": "瞬（幼年）（蓝色档案）",
+      "英语": "Shun (Kid)_(blue_archive)"
+    },
+    "78": {
+      "中文": "优衣（蓝色档案）",
+      "英语": "Ui_(blue_archive)"
+    },
+    "79": {
+      "中文": "优衣（泳装）（蓝色档案）",
+      "英语": "Ui (Swimsuit)_(blue_archive)"
+    },
+    "80": {
+      "中文": "结羽（蓝色档案）",
+      "英语": "Yuuka_(blue_archive)"
+    },
+    "81": {
+      "中文": "风香（蓝色档案）",
+      "英语": "Fuuka _(blue_archive)"
+    },
+    "82": {
+      "中文": "羽衣（新年）（蓝色档案）",
+      "英语": "Hare (New Year) (blue archive)"
+    },
+    "83": {
+      "中文": "桃井（泳装）（蓝色档案）",
+      "英语": "Momiji (Swimsuit) (blue archive)"
+    },
+    "84": {
+      "中文": "野々美（蓝色档案）",
+      "英语": "Nonomi (blue archive)"
+    },
+    "85": {
+      "中文": "美由（泳装）（蓝色档案）",
+      "英语": "Miyu (Swimsuit) (blue archive)"
+    },
+    "86": {
+      "中文": "结衣（蓝色档案）",
+      "英语": "Yuzu (blue archive)"
+    },
+    "87": {
+      "中文": "星塔（崩坏：星穹铁道）",
+      "英语": "Starlit (Astrologos) (Honkai Impact 3)"
+    },
+    "88": {
+      "中文": "符华（苍骑士·月魂）（崩坏：星穹铁道）",
+      "英语": "Fu Hua (Azure Empyrea)(Honkai Impact 3)"
+    },
+    "89": {
+      "中文": "希儿·芙乐艾（魇夜星渊）（崩坏：星穹铁道）（黑希）",  // 补充别名
+      "英语": "Seele Vollerei (Stygian Nymph) (Honkai Impact 3)"
+    },
+    "90": {
+      "中文": "萝莎莉娅·阿琳（崩坏：星穹铁道）",
+      "英语": "Liliya Olenyeva (Honkai Impact 3)"
+    },
+    "91": {
+      "中文": "罗莎莉亚·阿琳（崩坏：星穹铁道）",
+      "英语": "Rozaliya Olenyeva (Honkai Impact 3)"
+    },
+    "92": {
+      "中文": "幽兰黛尔（崩坏：星穹铁道）",
+      "英语": "Durandal (Honkai Impact 3)"
+    },
+    "93": {
+      "中文": "梅比乌斯（崩坏：星穹铁道）",
+      "英语": "Mobius (Honkai Impact 3)"
+    },
+    "94": {
+      "中文": "尤卡（崩坏：星穹铁道）",
+      "英语": "Yuuka (Honkai Impact 3)"
+    },
+    "95": {
+      "中文": "格蕾修（织梦星见）（崩坏：星穹铁道）",
+      "英语": "Griseo (Cosmic Expression) (Honkai Impact 3)"
+    },
+    "96": {
+      "中文": "格蕾修（崩坏：星穹铁道）",
+      "英语": "Griseo (Honkai Impact 3)"
+    },
+    "97": {
+      "中文": "时雨绮罗（崩坏：星穹铁道）",
+      "英语": "Shigure Kira (Honkai Impact 3)"
+    },
+    "98": {
+      "中文": "西琳（崩坏：星穹铁道）",
+      "英语": "Sirin (Honkai Impact 3)"
+    },
+    "99": {
+      "中文": "普罗米修斯（原神）",
+      "英语": "PROMETHEUS (Genshin Impact)"
+    },
+    "100": {
+      "中文": "夏洛蒂（原神）",
+      "英语": "Charlotte (genshin_impact)"
+    },
+    "101": {
+      "中文": "芙宁娜（原神）",
+      "英语": "Furina (Genshin Impact)"
+    },
+    "102": {
+      "中文": "芙宁娜（原神）",
+      "英语": "Furina (Genshin Impact)"
+    },
+    "103": {
+      "中文": "卡维娜（原神）",
+      "英语": "Kachina (genshin_impact)"
+    },
+    "104": {
+      "中文": "神里绫华（原神）",
+      "英语": "Kamisato Ayaka (Genshin Impact)"
+    },
+    "105": {
+      "中文": "刻晴（原神）",
+      "英语": "Keqing (genshin_impact)"
+    },
+    "106": {
+      "中文": "绮良（原神）",
+      "英语": "Kirara (genshin_impact)"
+    },
+    "107": {
+      "中文": "穆拉尼（原神）",
+      "英语": "Mualani (genshin_impact)"
+    },
+    "108": {
+      "中文": "妮露（原神）",
+      "英语": "Nilou (Genshin Impact)"
+    },
+    "109": {
+      "中文": "雷电将军（原神）（雷神/影）",  // 补充别名
+      "英语": "Raiden Shogun (Genshin Impact)"
+    },
+    "110": {
+      "中文": "珊瑚宫心海（原神）",
+      "英语": "Sangonomiya Kokomi (Genshin Impact)"
+    },
+    "111": {
+      "中文": "西格温妮（原神）",
+      "英语": "Sigewinne (Genshin Impact)"
+    },
+    "112": {
+      "中文": "八重神子（原神）（屑狐狸）",  // 补充别名
+      "英语": "Yae Miko (Genshin Impact)"
+    },
+    "113": {
+      "中文": "烟绯（原神）",
+      "英语": "Yanfei (Genshin Impact)"
+    },
+    "114": {
+      "中文": "云堇（原神）",
+      "英语": "Yunjin (Genshin Impact)"
+    },
+    "115": {
+      "中文": "宵宫（原神）",
+      "英语": "Yoimiya (Genshin Impact)"
+    },
+    "116": {
+      "中文": "艾丝妲（崩坏：星穹铁道）",
+      "英语": "Asta (honkai: star rail)"
+    },
+    "117": {
+      "中文": "白露（崩坏：星穹铁道）",
+      "英语": "Bailu (honkai: star rail)"
+    },
+    "118": {
+      "中文": "克拉拉（崩坏：星穹铁道）",
+      "英语": "Clara (honkai: star rail)"
+    },
+    "119": {
+      "中文": "符玄（崩坏：星穹铁道）",
+      "英语": "Fu Xuan (honkai: star rail)"
+    },
+    "120": {
+      "中文": "黑塔（崩坏：星穹铁道）",
+      "英语": "Herta (honkai: star rail)"
+    },
+    "121": {
+      "中文": "虎克（崩坏：星穹铁道）",
+      "英语": "Hook (honkai: star rail)"
+    },
+    "122": {
+      "中文": "藿藿（崩坏：星穹铁道）",
+      "英语": "Huohuo (honkai: star rail)"
+    },
+    "123": {
+      "中文": "景元（崩坏：星穹铁道）",
+      "英语": "Jingliu (honkai: star rail)"
+    },
+    "124": {
+      "中文": "卡芙卡（崩坏：星穹铁道）",
+      "英语": "Kafka (honkai: star rail)"
+    },
+    "125": {
+      "中文": "灵纱（崩坏：星穹铁道）",
+      "英语": "Lingsha (honkai: star rail)"
+    },
+    "126": {
+      "中文": "琳可（崩坏：星穹铁道）",
+      "英语": "Lynx (honkai: star rail)"
+    },
+    "127": {
+      "中文": "三月七（崩坏：星穹铁道）",
+      "英语": "March 7th (honkai: star rail)"
+    },
+    "128": {
+      "中文": "青雀（崩坏：星穹铁道）",
+      "英语": "Qingque (honkai: star rail)"
+    },
+    "129": {
+      "中文": "阮梅（崩坏：星穹铁道）",
+      "英语": "Ruan Mei (honkai: star rail)"
+    },
+    "130": {
+      "中文": "罗宾（崩坏：星穹铁道）",
+      "英语": "Robin (honkai: star rail)"
+    },
+    "131": {
+      "中文": "银狼（崩坏：星穹铁道）",
+      "英语": "Silver Wolf (honkai: star rail)"
+    },
+    "132": {
+      "中文": "史泼克（崩坏：星穹铁道）",
+      "英语": "Sparkle (honkai: star rail)"
+    },
+    "133": {
+      "中文": "素裳（崩坏：星穹铁道）",
+      "英语": "Sushang (honkai: star rail)"
+    },
+    "134": {
+      "中文": "云里（崩坏：星穹铁道）",
+      "英语": "Yunli (honkai: star rail)"
+    },
+    "135": {
+      "中文": "如月（碧蓝航线）",
+      "英语": "Kisaragi (Azur Lane )"
+    },
+    "136": {
+      "中文": "常诺·索拉（碧蓝航线）",
+      "英语": "Tokino Sora (Azur Lane )"
+    },
+    "137": {
+      "中文": "涅普顿（超次元游戏：海王星）（碧蓝航线）",
+      "英语": "Neptune (Neptunia)(Azur Lane )"
+    },
+    "138": {
+      "中文": "信浓酱（碧蓝航线）",
+      "英语": "Shinano-chan (Azur Lane )"
+    },
+    "139": {
+      "中文": "小柴郡（碧蓝航线）",
+      "英语": "Little Cheshire (Azur Lane )"
+    },
+    "140": {
+      "中文": "铃谷（碧蓝航线）",
+      "英语": "Suzunami (Azur Lane )"
+    },
+    "141": {
+      "中文": "奥涅瓦（碧蓝航线）",
+      "英语": "Ognevoy (Azur Lane )"
+    },
+    "142": {
+      "中文": "龙武（碧蓝航线）",
+      "英语": "Lung Wu (Azur Lane )"
+    },
+    "143": {
+      "中文": "胡鹏（碧蓝航线）",
+      "英语": "Hu Pen (Azur Lane )"
+    },
+    "144": {
+      "中文": "拉菲Ⅱ（碧蓝航线）",
+      "英语": "Laffey II (Azur Lane )"
+    },
+    "145": {
+      "中文": "怀达（碧蓝航线）",
+      "英语": "Whydah (Azur Lane )"
+    },
+    "146": {
+      "中文": "星座（碧蓝航线）",
+      "英语": "Constellation (Azur Lane )"
+    },
+    "147": {
+      "中文": "哈曼Ⅱ（碧蓝航线）",
+      "英语": "Hammann II (Azur Lane )"
+    },
+    "148": {
+      "中文": "阿蒂利奥·雷戈洛（碧蓝航线）",
+      "英语": "Attilio Regolo (Azur Lane )"
+    },
+    "149": {
+      "中文": "不屈（碧蓝航线）",
+      "英语": "L'Indomptable (Azur Lane )"
+    },
+    "150": {
+      "中文": "海天（碧蓝航线）",
+      "英语": "Hai Tien (Azur Lane )"
+    },
+    "151": {
+      "中文": "前田利家（碧蓝航线）",
+      "英语": "Maillé Brézé Kazuha (Azur Lane )"
+    },
+    "152": {
+      "中文": "斯特拉斯堡（碧蓝航线）",
+      "英语": "Stremitelny (Azur Lane )"
+    },
+    "153": {
+      "中文": "塔什干（碧蓝航线）",
+      "英语": "Tashkent (Azur Lane )"
+    },
+    "154": {
+      "中文": "伊-13（碧蓝航线）",
+      "英语": "I-13 (Azur Lane )"
+    },
+    "155": {
+      "中文": "卯月（碧蓝航线）",
+      "英语": "Umikaze (Azur Lane )"
+    },
+    "156": {
+      "中文": "长月（碧蓝航线）",
+      "英语": "Nagatsuki (Azur Lane )"
+    },
+    "157": {
+      "中文": "岛风（碧蓝航线）",
+      "英语": "Shimakaze (Azur Lane )"
+    },
+    "158": {
+      "中文": "最上（碧蓝航线）",
+      "英语": "Zuihou (Azur Lane )"
+    },
+    "159": {
+      "中文": "初晴（碧蓝航线）",
+      "英语": "Hatsuharu (Azur Lane )"
+    },
+    "160": {
+      "中文": "后藤一里（孤独摇滚！）",
+      "英语": "Hitori Gotoh (Bocchi the Rock)"
+    },
+    "161": {
+      "中文": "结衣（女仆）（蓝色档案）",
+      "英语": "Yuzu (Maid) (blue archive)"
+    },
+    "162": {
+      "中文": "大山美羽（哥哥太爱我了怎么办！）",
+      "英语": "Mihari Oyama_(Onii-chan wa Oshimai！)"
+    },
+    "163": {
+      "中文": "大山真央（哥哥太爱我了怎么办！）",
+      "英语": "Mahiro Oyama_(Onii-chan wa Oshimai！)"
+    },
+    "164": {
+      "中文": "大冈旭（哥哥太爱我了怎么办！）",
+      "英语": "Asahi Ōka (Onii-chan wa Oshimai！)"
+    },
+    "165": {
+      "中文": "月之濑枫（哥哥太爱我了怎么办！）",
+      "英语": "Kaede Hozuki (Onii-chan wa Oshimai！)"
+    },
+    "166": {
+      "中文": "月之濑桃（哥哥太爱我了怎么办！）",
+      "英语": "Momiji Hozuki (Onii-chan wa Oshimai！)"
+    },
+    "167": {
+      "中文": "室崎美代（哥哥太爱我了怎么办！）",
+      "英语": "Miyo Murosaki (Onii-chan wa Oshimai！)"
+    },
+    "168": {
+      "中文": "和泉纱雾（埃罗芒阿老师）",
+      "英语": "Sagiri Izumi (Eromanga Sensei)"
+    },
+    "169": {
+      "中文": "美久（女仆）（蓝色档案）",
+      "英语": "Miku (Maid) (blue archive)"
+    },
+    "170": {
+      "中文": "莉莉（ENDER LILIES: Quietus of the Knights）",
+      "英语": "Lily (ENDER LILIES: Quietus of the Knights)"
+    },
+    "171": {
+      "中文": "星野日向（天使降临到了我身边！）",
+      "英语": "Hinata Hoshino-Wataten!: An Angel Flew Down to Me"
+    },
+    "172": {
+      "中文": "白咲花（天使降临到了我身边！）",
+      "英语": "Hana Shirosaki-Wataten!: An Angel Flew Down to Me"
+    },
+    "173": {
+      "中文": "姬坂乃爱（天使降临到了我身边！）",
+      "英语": "Noa Himesaka-Wataten!: An Angel Flew Down to Me"
+    },
+    "174": {
+      "中文": "种村小依（天使降临到了我身边！）",
+      "英语": "Koyori Tanemura-Wataten!: An Angel Flew Down to Me "
+    },
+    "175": {
+      "中文": "绀野纱夜（天使降临到了我身边！）",
+      "英语": "Kanon Konomori-Wataten!: An Angel Flew Down to Me"
+    },
+    "176": {
+      "中文": "阿尼亚（间谍过家家）",
+      "英语": "anya_(spy_x_family)"
+    },
+    "177": {
+      "中文": "诺艾拉（异世界药局：作弊药剂师的悠闲生活）",
+      "英语": "Noela_(Drugstore in Another World: The Slow Life of a Cheat Pharmacist)"
+    },
+    "178": {
+      "中文": "毓秀（风铃玉秀）",
+      "英语": "yuxiu_(fenglingyuxiu)"
+    },
+    "179": {
+      "中文": "安可（雾雨谜岸）",
+      "英语": "Encore_(wuther_ing waves)"
+    },
+    "180": {
+      "中文": "建信（雾雨谜岸）",
+      "英语": "Jianxin_(wuthering waves)"
+    },
+    "181": {
+      "中文": "金喜（雾雨谜岸）",
+      "英语": "Jinhsi_(wuthering waves)"
+    },
+    "182": {
+      "中文": "维瑞娜（雾雨谜岸）",
+      "英语": "Verina_(wuthering waves)"
+    },
+    "183": {
+      "中文": "幽狐（雾雨谜岸）",
+      "英语": "Youhu_(wuther_ing waves)"
+    },
+    "184": {
+      "中文": "哲知（雾雨谜岸）",
+      "英语": "Zhezhi_(wuthering waves)"
+    },
+    "185": {
+      "中文": "淘气（雾雨谜岸）",
+      "英语": "Taoqi_(wuthering waves)"
+    },
+    "186": {
+      "中文": "灵（绝区零）",
+      "英语": "ling_(zenless-zone-zero)"
+    },
+    "187": {
+      "中文": "安比·德玛拉（绝区零）",
+      "英语": "Anby_Demara_(zenless-zone-zero)"
+    },
+    "188": {
+      "中文": "伯尼丝·怀特（绝区零）",
+      "英语": "Burnice White_(zenless-zone-zero)"
+    },
+    "189": {
+      "中文": "科林·威克斯（绝区零）",
+      "英语": "Corin Wickes_(zenless-zone-zero)"
+    },
+    "190": {
+      "中文": "艾伦·乔（绝区零）",
+      "英语": "Ellen Joe_(zenless-zone-zero)"
+    },
+    "191": {
+      "中文": "星见雅（绝区零）",
+      "英语": "Hoshimi Miyabi_(zenless-zone-zero)"
+    },
+    "193": {
+      "中文": "猫宫木乃香（绝区零）",
+      "英语": "Nekomiya Mana_(zenless-zone-zero)"
+    },
+    "194": {
+      "中文": "妮可·德玛拉（绝区零）",
+      "英语": "Nicole Demara_(zenless-zone-zero)"
+    },
+    "195": {
+      "中文": "青仪（绝区零）",
+      "英语": "Qingyi_(zenless-zone-zero)"
+    },
+    "196": {
+      "中文": "士兵11（绝区零）",
+      "英语": "Soldier 11_(zenless-zone-zero)"
+    },
+    "197": {
+      "中文": "派珀·威尔（绝区零）",
+      "英语": "Piper Wheel_(zenless-zone-zero)"
+    },
+    "198": {
+      "中文": "费米林斯（崩坏2）",
+      "英语": "Femirins_(houkai2nd)"
+    },
+    "199": {
+      "中文": "诗音（崩坏2）",
+      "英语": "Shion_(houkai2nd)"
+    },
+    "200": {
+      "中文": "伊瑟琳·利夫特鲁（崩坏2）",
+      "英语": "Yssring Leavtruth_(houkai2nd)"
+    },
+    "201": {
+      "中文": "红井理惠（崩坏2）",
+      "英语": "Kurenai Rie_(houkai2nd)"
+    },
+    "202": {
+      "中文": "泰什（少女前线2：追放）",
+      "英语": "Taisch_(GIRLS' FRONTLINE 2:EXILIUM)"
+    },
+    "203": {
+      "中文": "麦克斯（少女前线2：追放）",
+      "英语": "Max_(GIRLS' FRONTLINE 2:EXILIUM)"
+    },
+    "204": {
+      "中文": "蝉知（少女前线2：追放）",
+      "英语": "Chanzhi_(GIRLS' FRONTLINE 2:EXILIUM)"
+    },
+    "205": {
+      "中文": "姬川由乃（约会大作战）",
+      "英语": "himekawa_yoshino (Date_A_Live)"
+    },
+    "206": {
+      "中文": "艾莉丝·格雷拉特（无职转生）",
+      "英语": "eris_greyrat (mushoku_tensei)"
+    },
+    "207": {
+      "中文": "瑞凤（碧蓝航线）",
+      "英语": "Zuihou_(AzurLane)"
+    }
+  }
+}
