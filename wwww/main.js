@@ -1,5 +1,5 @@
 // 数据源URL
-const 数据源URL = 'YOUR_JSON_DATA_URL_HERE'; // 替换成你的JSON数据URL
+const 数据源URL = 'https://raw.githubusercontent.com/mrnfqrbl/sd-tag-public/main/data/%E6%8F%90%E7%A4%BA%E8%AF%8D.json'; // 替换成你的JSON数据URL
 
 // 获取页面元素
 const 搜索框 = document.getElementById('搜索框');
