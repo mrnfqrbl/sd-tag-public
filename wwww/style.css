@@ -1,0 +1,44 @@
+body {
+    font-family: sans-serif;
+}
+
+.提示词容器 {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    cursor: pointer; /* 鼠标悬停时显示手型 */
+}
+
+.提示词容器:hover {
+    background-color: #f0f0f0; /* 鼠标悬停时改变背景色 */
+}
+
+.标签容器 {
+    margin-bottom: 10px;
+}
+
+.标签 {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background-color: #eee;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.标签:hover {
+    background-color: #ddd;
+}
+
+.标签.选中 {
+    background-color: #bbb;
+    color: white;
+}
+
+#搜索框 {
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
