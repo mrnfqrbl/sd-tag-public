@@ -294,12 +294,45 @@ function 创建提示词容器(提示词) {
 function 复制提示词到剪贴板(提示词) {
     navigator.clipboard.writeText(提示词)
         .then(() => {
-            alert('提示词已复制到剪贴板！');
+            显示水印提示('提示词已复制到剪贴板！');
         })
         .catch(错误 => {
             console.error('复制提示词失败:', 错误);
-            alert('复制提示词失败，请手动复制。');
+            alert('复制提示词失败，请手动复制。'); // 如果复制失败，仍然弹出窗口
         });
+}
+
+function 显示水印提示(消息) {
+    // 创建水印元素
+    const 水印 = document.createElement('div');
+    水印.textContent = 消息;
+    水印.style.position = 'fixed';
+    水印.style.top = '20%';
+    水印.style.left = '50%';
+    水印.style.transform = 'translate(-50%, -50%)';
+    水印.style.backgroundColor = 'rgba(0, 0, 0, 0.7)';
+    水印.style.color = '#fff';
+    水印.style.padding = '10px 20px';
+    水印.style.borderRadius = '5px';
+    水印.style.zIndex = '9999'; // 确保在最上层
+    水印.style.opacity = '0'; // 初始透明度为 0
+    水印.style.transition = 'opacity 0.5s ease-in-out'; // 添加过渡效果
+
+    // 将水印添加到 body 中
+    document.body.appendChild(水印);
+
+    // 逐渐显示水印
+    setTimeout(() => {
+        水印.style.opacity = '1';
+    }, 10); // 稍微延迟一下，确保过渡效果生效
+
+    // 5 秒后隐藏水印
+    setTimeout(() => {
+        水印.style.opacity = '0';
+        setTimeout(() => {
+            document.body.removeChild(水印); // 移除水印元素
+        }, 500); // 等待过渡效果完成再移除
+    }, 5000);
 }
 
 // -------------------- 数据筛选与搜索 --------------------
