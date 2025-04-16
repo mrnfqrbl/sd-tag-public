@@ -2,140 +2,38 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>角色数据</title>
-    <style>
-        /* CSS 变量 */
-        :root {
-            --primary-color: #3498db;
-            --secondary-color: #e74c3c;
-            --background-color: #f5f5f5;
-            --text-color: #333;
-            --hover-color: #d4e6f1;
-        }
-
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            background-color: var(--background-color);
-            color: var(--text-color);
-            margin: 20px;
-        }
-
-        h2 {
-            color: var(--primary-color);
-            margin-bottom: 10px;
-        }
-
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin-bottom: 20px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 添加阴影 */
-            border-radius: 8px; /* 圆角边框 */
-            overflow: hidden; /* 确保圆角生效 */
-        }
-
-        th, td {
-            border: 1px solid #ddd;
-            padding: 12px;
-            text-align: left;
-        }
-
-        th {
-            background-color: var(--primary-color);
-            color: white;
-        }
-
-        tr:nth-child(even) {
-            background-color: #f2f2f2;
-        }
-
-        .copyable {
-            cursor: pointer;
-            background-color: #f0f0f0;
-        }
-
-        .copyable:hover {
-            background-color: var(--hover-color); /* 鼠标悬停效果 */
-        }
-
-        #watermark {
-            position: fixed;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background-color: rgba(0, 0, 0, 0.7);
-            color: white;
-            padding: 10px 20px;
-            border-radius: 5px;
-            z-index: 9999;
-            display: none;
-        }
-    </style>
+    <title>图像提示词和标签管理</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div id="watermark"></div>
-<div id="table-container"></div>
 
-<script>
-    function 复制文本(element) {
-        const text = element.innerText;
-        navigator.clipboard.writeText(text)
-            .then(() => {
-                显示水印('已复制: ' + text);
-            })
-            .catch(err => {
-                console.error('复制失败: ', err);
-                显示水印('复制失败！'); // 更详细的错误提示
-            });
-    }
+<header>
+    <h1>图像提示词和标签管理</h1>
+</header>
 
-    function 显示水印(message) {
-        const watermark = document.getElementById('watermark');
-        watermark.innerText = message;
-        watermark.style.display = 'block';
-        setTimeout(() => {
-            watermark.style.display = 'none';
-        }, 1500); // 显示 1.5 秒
-    }
+<main>
+    <section id="搜索区域">
+        <input type="text" id="搜索框" placeholder="搜索提示词">
+    </section>
 
-    function 生成表格(数据) {
-        let html = '';
-        for (const 游戏 in 数据) {
-            html += `<h2>${游戏}</h2>`;
-            html += '<table>';
-            html += '<tr><th>中文</th><th>英语</th></tr>';
+    <section id="标签选择区域">
+        <div id="分类导航栏"></div>
+        <div id="已选标签区域"></div>  <!-- 唯一的已选标签区域，点击取消选择 -->
+        <div id="标签列表"></div>
+        <!-- 标签将在这里动态生成 -->
+    </section>
 
-            for (const 角色 of 数据[游戏]) {
-                const 中文 = 角色['中文'];
-                const 英语 = 角色['英语'];
-                html += `<tr><td>${中文}</td><td class="copyable" onclick="复制文本(this)">${英语}</td></tr>`;
-            }
+    <section id="提示词显示区域">
+        <div id="提示词列表"></div>
+        <!-- 提示词将在这里动态生成 -->
+    </section>
+</main>
 
-            html += '</table>';
-        }
-        document.getElementById('table-container').innerHTML = html;
-    }
+<footer>
+    <!-- 可以添加一些版权信息或者其他内容 -->
+</footer>
 
-    // 从 URL 获取 JSON 数据
-    async function 获取数据(url) {
-        try {
-            const response = await fetch(url);
-            if (!response.ok) {
-                throw new Error(`HTTP 错误! 状态: ${response.status}`);
-            }
-            const data = await response.json();
-            生成表格(data);
-        } catch (error) {
-            console.error('获取数据失败:', error);
-            document.getElementById('table-container').innerText = '获取数据失败，请检查 URL 和网络连接。';
-        }
-    }
+<script src="main.js"></script>
 
-    // 页面加载时调用
-    window.onload = function() {
-        const jsonUrl = 'https://raw.githubusercontent.com/mrnfqrbl/sd-tag-public/main/data/%E8%A7%92%E8%89%B2.json\n';  // 替换为你的 JSON URL
-        获取数据(jsonUrl);
-    };
-</script>
 </body>
 </html>
