@@ -1,5 +1,6 @@
 // 数据源URL
 const 数据源URL = 'https://raw.githubusercontent.com/mrnfqrbl/sd-tag-public/main/data/%E6%8F%90%E7%A4%BA%E8%AF%8D.json'; // 替换成你的JSON数据URL
+const 分类映射数据源URL = '你的分类映射数据源URL'; // 替换为你的分类映射数据源URL
 
 // 获取页面元素
 const 搜索框 = document.getElementById('搜索框');
@@ -10,16 +11,30 @@ const 提示词列表 = document.getElementById('提示词列表');
 let 数据 = [];
 let 所有标签 = new Set(); // 使用Set来保证标签的唯一性
 let 选中的标签 = new Set();
+let 分类映射 = {}; // 存储分类映射数据
 
 // 从URL获取JSON数据
 async function 获取数据() {
     try {
         const 响应 = await fetch(数据源URL);
         数据 = await 响应.json();
+        await 获取分类映射数据(); // 先获取分类映射数据
         渲染页面();
     } catch (错误) {
         console.error('获取数据失败:', 错误);
         提示词列表.textContent = '获取数据失败，请检查URL和网络连接。';
+    }
+}
+
+// 获取分类映射数据
+async function 获取分类映射数据() {
+    try {
+        const 响应 = await fetch(分类映射数据源URL);
+        const 分类数据 = await 响应.json();
+        分类映射 = 分类数据["词语分类映射"] || {}; // 获取词语分类映射
+    } catch (错误) {
+        console.error('获取分类映射数据失败:', 错误);
+        // 可以选择是否继续，或者显示错误信息
     }
 }
 
@@ -43,14 +58,21 @@ function 提取所有标签() {
 // 渲染标签
 function 渲染标签() {
     标签列表.innerHTML = ''; // 清空标签列表
+
     所有标签.forEach(标签 => {
         const 标签元素 = document.createElement('span');
         标签元素.classList.add('标签');
         标签元素.textContent = 标签;
+
+        // 计算包含此标签的条目数量
+        const 条目数量 = Object.values(数据).filter(条目 => 条目.标签.includes(标签)).length;
+        标签元素.textContent = `${标签} (${条目数量})`; // 显示标签和数量
+
         标签元素.addEventListener('click', () => 切换标签(标签));
         标签列表.appendChild(标签元素);
     });
 }
+
 
 // 切换标签选中状态
 function 切换标签(标签) {
@@ -125,7 +147,7 @@ function 渲染提示词() {
 
     // 更新标签的选中状态
     document.querySelectorAll('.标签').forEach(标签元素 => {
-        const 标签 = 标签元素.textContent;
+        const 标签 = 标签元素.textContent.split(' ')[0]; // 获取标签名称，去除数量信息
         if (选中的标签.has(标签)) {
             标签元素.classList.add('选中');
         } else {
