@@ -1,3 +1,81 @@
+import gec
+import traceback
+import sys
+async def files_list(self, 路径,子:False):
+    if 子:
+        logger.info("这是子调用")
+    # logger.info(f"初始路径: {路径}")
+    # 移除路径开头的 / 或 \
+
+    if not 路径:
+        路径 = '.'
+    while 路径.startswith('/') or 路径.startswith('\\'):
+        路径 = 路径[1:]
+
+    路径 = 路径.replace('/', '\\')  # 替换所有 / 为 \
+
+
+
+    if 路径=='\\' or not 路径:
+        logger.info(f"路径: {路径}")
+        查询路径=self.文件存储根目录
+    else:
+
+        查询路径 = os.path.join(self.文件存储根目录, 路径)  # 使用 os.path.join 拼接路径
+    logger.info(f"查询路径: {查询路径}")
+
+
+    files = []
+    tasks = []
+    try:
+
+        for file_name in os.listdir(查询路径):
+            file_path = os.path.join(查询路径, file_name)
+            tasks.append(self.get_info(file_path))
+        logger.info(":11111")
+        files = await asyncio.gather(*tasks)
+
+        files.sort(key=lambda x: (x['type'] == 'file', x['name'].lower()))
+        self.文件列表缓存 = files
+        logger.info(f"这里是文件列表返回前一秒")
+
+        return files
+    except FileNotFoundError as e:
+
+        if 子:
+            logger.error(f"子查询路径: {查询路径}")
+            logger.error(f"子错误信息: 文件或目录不存在")
+        else:
+
+            logger.error(f"查询路径: {查询路径}")
+            logger.error(f"错误信息: 文件或目录不存在")
+
+        异常类型 = type(e)
+        异常实例 = e
+        回溯堆栈 = e.__traceback__
+
+        #gec.全局异常处理(异常类型=异常类型,异常实例=异常实例,回溯堆栈=回溯堆栈)
+        return {"status": "error", "message": "文件或目录不存在"}
+    except Exception as e:
+        logger.error(f"查询路径: {查询路径}")
+        logger.error(f"错误信息: {e}")
+        return {"status": "error", "message": str(e)}
+
+
+#除以零结果 =
+def 除以零结果():
+    try:
+        a = 1 / 0
+        return a
+    except Exception as e:
+        异常类型 = type(e)
+        异常实例 = e
+        回溯堆栈 = e.__traceback__
+
+        gec.全局异常处理(异常类型 =异常类型,异常实例=异常实例,回溯堆栈=回溯堆栈)
+
+除以零结果()
+
 import json
 import re
 import os
