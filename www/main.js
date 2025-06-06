@@ -30,6 +30,11 @@ async function 初始化应用() {
     try {
         await 获取数据();
         await 获取分类映射数据();
+        const 分类ID列表 = Object.keys(分类字典);
+        if (分类ID列表.length > 0) {
+            当前分类 = 分类ID列表[0];
+            console.log(`默认选择分类: ${当前分类}`);
+        }
         渲染页面();
     } catch (错误) {
         console.error('应用初始化失败:', 错误);
@@ -139,6 +144,11 @@ function 创建分类按钮(分类ID, 分类名称) {
     const 分类按钮 = document.createElement('button');
     分类按钮.textContent = 分类名称;
     分类按钮.addEventListener('click', () => 切换分类(分类ID));
+    // 根据当前分类，决定是否添加 data-被选择 属性
+    if (分类ID === 当前分类) {
+        分类按钮.dataset.被选择 = "true"; // 添加 data-被选择 属性
+        console.log(`默认选中分类按钮: ${分类名称} (ID: ${分类ID})`);
+    }
     return 分类按钮;
 }
 
@@ -149,6 +159,7 @@ function 创建分类按钮(分类ID, 分类名称) {
 function 切换分类(分类ID) {
     console.log(`切换分类到: ${分类ID}`);
     当前分类 = 分类ID;
+    渲染分类导航栏(); // 重新渲染分类导航栏
     渲染标签列表(); // 重新渲染标签列表，应用分类筛选
     更新过滤后的提示词数据(); // 更新过滤后的提示词数据
     渲染提示词列表(); // 重新渲染提示词列表，应用分类筛选
@@ -268,23 +279,56 @@ function 渲染提示词列表() {
     提示词列表容器.innerHTML = ''; // 清空提示词列表
 
     过滤后的提示词数据.forEach(条目 => {
-        const 提示词容器 = 创建提示词容器(条目.提示词);
-        提示词列表容器.appendChild(提示词容器);
+        const 项容器 = 创建项容器(条目); // 创建包含提示词和标签的项容器
+        提示词列表容器.appendChild(项容器);
     });
     console.log('提示词列表渲染完成。');
 }
 
 /**
- * 创建一个提示词容器元素。
- * @param {string} 提示词 - 提示词内容.
- * @returns {HTMLDivElement} - 创建的提示词容器元素.
+ * 创建一个包含提示词和标签预览的项容器元素。
+ * @param {object} 条目 - 包含提示词和标签的数据条目.
+ * @returns {HTMLDivElement} - 创建的项容器元素.
  */
-function 创建提示词容器(提示词) {
+function 创建项容器(条目) {
+    const 项容器 = document.createElement('div');
+    项容器.classList.add('项容器');
+
+    // 创建提示词容器
     const 提示词容器 = document.createElement('div');
     提示词容器.classList.add('提示词容器');
-    提示词容器.textContent = 提示词;
-    提示词容器.addEventListener('click', () => 复制提示词到剪贴板(提示词)); // 点击复制功能
-    return 提示词容器;
+    提示词容器.textContent = 条目.提示词;
+    提示词容器.addEventListener('click', () => 复制提示词到剪贴板(条目.提示词)); // 点击复制功能
+    项容器.appendChild(提示词容器);
+
+    // 创建标签预览容器
+    const 标签预览容器 = document.createElement('div');
+    标签预览容器.classList.add('标签预览容器');
+    条目.标签.forEach(标签 => {
+        const 标签容器 = 创建标签容器(标签); // 创建包含单个标签的容器
+        标签预览容器.appendChild(标签容器);
+    });
+    项容器.appendChild(标签预览容器);
+
+    return 项容器;
+}
+
+/**
+ * 创建一个包含单个标签的容器元素，并添加点击复制功能。
+ * @param {string} 标签 - 标签名称.
+ * @returns {HTMLSpanElement} - 创建的标签容器元素.
+ */
+function 创建标签容器(标签) {
+    const 标签容器 = document.createElement('span');
+    标签容器.classList.add('标签容器');
+
+    const 标签元素 = document.createElement('span');
+    标签元素.classList.add('标签预览');
+    标签元素.textContent = 标签;
+    标签容器.appendChild(标签元素);
+
+    标签容器.addEventListener('click', () => 复制提示词到剪贴板(标签)); // 点击复制标签
+    return 标签容器;
 }
 
 /**
@@ -294,11 +338,11 @@ function 创建提示词容器(提示词) {
 function 复制提示词到剪贴板(提示词) {
     navigator.clipboard.writeText(提示词)
         .then(() => {
-            显示水印提示('提示词已复制到剪贴板！');
+            显示水印提示('已复制到剪贴板！');
         })
         .catch(错误 => {
-            console.error('复制提示词失败:', 错误);
-            alert('复制提示词失败，请手动复制。'); // 如果复制失败，仍然弹出窗口
+            console.error('复制失败:', 错误);
+            alert('复制失败，请手动复制。'); // 如果复制失败，仍然弹出窗口
         });
 }
 

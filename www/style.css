@@ -25,7 +25,6 @@ header h1 {
     line-height: 1; /* 减小 h1 的行高 */
 }
 
-
 main {
     /* 可以添加一些样式 */
 }
@@ -57,26 +56,58 @@ main {
     /* 可以添加一些样式 */
 }
 
-.提示词容器 {
+/* 项容器样式 */
+.项容器 {
     border: 1px solid #555; /* 更深的边框颜色 */
     padding: 15px;
     margin-bottom: 15px;
-    cursor: pointer;
     border-radius: 8px;
     background-color: #455A64; /* 稍微暗淡的背景色 */
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
-    color: #fff; /* 提示词文字颜色 */
+    color: #fff; /* 文字颜色 */
 }
 
-.提示词容器:hover {
+.项容器:hover {
     background-color: #546E7A; /* 鼠标悬停时改变背景色 */
     transform: translateY(-2px);
     box-shadow: 0 3px 7px rgba(0, 0, 0, 0.2);
 }
 
+/* 提示词容器样式 */
+.提示词容器 {
+    cursor: pointer;
+    margin-bottom: 15px; /* 提示词和标签之间增加更多间距 */
+    padding-bottom: 10px; /* 提示词底部增加内边距 */
+    border-bottom: 1px solid #777; /* 提示词底部增加分隔线 */
+}
+
+/* 标签预览容器样式 */
+.标签预览容器 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px; /* 标签之间的间距 */
+    padding-top: 10px; /* 标签顶部增加内边距 */
+}
+
+/* 标签容器样式 */
 .标签容器 {
-    margin-bottom: 20px;
+    display: inline-block;
+    padding: 6px 12px; /* 稍微减小内边距 */
+    background-color: #607D8B; /* 标签背景色 */
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+    font-size: 0.9em; /* 稍微缩小字体 */
+}
+
+.标签容器:hover {
+    background-color: #546E7A; /* 鼠标悬停时改变背景色 */
+}
+
+/* 标签预览样式 */
+.标签预览 {
+    color: #fff; /* 标签文字颜色 */
 }
 
 .标签 {
@@ -88,12 +119,13 @@ main {
     border: 1px solid #555; /* 标签边框颜色 */
     border-radius: 8px;
     cursor: pointer;
-    transition: background-color 0.2s ease, color 0.2s ease;
+    transition: background-color 0.2s ease, color 0.2s ease, transform 0.1s ease; /* 添加 transform 过渡 */
     color: #fff; /* 标签文字颜色 */
 }
 
 .标签:hover {
     background-color: #546E7A;
+    transform: scale(1.05); /* 鼠标悬停时稍微放大 */
 }
 
 .标签.选中 {
@@ -127,6 +159,12 @@ main {
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     background-color: #455A64; /* 搜索框背景色 */
     color: #fff; /* 搜索框文字颜色 */
+    transition: box-shadow 0.2s ease; /* 添加阴影过渡 */
+}
+
+#搜索框:focus {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); /* 聚焦时增加阴影 */
+    outline: none; /* 移除默认的聚焦边框 */
 }
 
 /* 分类导航栏样式 */
@@ -138,11 +176,19 @@ main {
     border-radius: 8px;
     background-color: #2980b9; /* 蓝色按钮 */
     cursor: pointer;
-    transition: background-color 0.2s ease, color 0.2s ease;
+    transition: background-color 0.2s ease, color 0.2s ease, transform 0.1s ease;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
     color: #fff; /* 按钮文字颜色 */
 }
 
 #分类导航栏 button:hover {
-    background-color: #2c3e50; /* 鼠标悬停时改变背景色 */
+    background-color: #34984b; /* 稍微亮一点的蓝色 */
+    transform: scale(1.05); /* 鼠标悬停时稍微放大 */
+}
+
+#分类导航栏 button[data-被选择="true"] {
+    background-color: #8e44ad; /* 紫色选中 */
+    color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* 增加阴影 */
+    transform: scale(1.05); /* 稍微放大 */
 }
